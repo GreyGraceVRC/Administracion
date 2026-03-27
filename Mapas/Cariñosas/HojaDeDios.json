@@ -24,7 +24,6 @@
             "Shirou1711",
             "Tatsumi02233",
             "Viz1c0l",
-            "Yukι-Nαgαto",
             "aaronquito",
             "dequer12",
             "duckis",
@@ -79,8 +78,7 @@
                 "ᴇᴛᴀᴅɪʟᴀᴠ"
             ],
             "7": [
-                "KatheKatt",
-                "Yukι-Nαgαto"
+                "KatheKatt"
             ],
             "13": [
                 "SRHiggins",
@@ -197,6 +195,7 @@
             "XxX_Alexa_XxX",
             "Yasashi Teyko",
             "YojanR1501",
+            "Yukι-Nαgαto",
             "YuuCaliente19°",
             "ZeroPositivo",
             "ZooboxSan",
@@ -291,6 +290,9 @@
                 "Warm®",
                 "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
                 "ParzivalOkazaki"
+            ],
+            "3": [
+                "Yukι-Nαgαto"
             ],
             "2": [
                 "El_CADEJO_SV",
@@ -393,28 +395,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -448,6 +428,28 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
