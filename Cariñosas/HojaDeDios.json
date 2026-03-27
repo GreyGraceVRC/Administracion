@@ -13,7 +13,6 @@
             "Gio©",
             "JMAUPS",
             "KatheKatt",
-            "Kii70",
             "MarlonQC",
             "MaurixG",
             "MΛTHIΛ",
@@ -23,7 +22,6 @@
             "SRHiggins",
             "Seruly",
             "Shirou1711",
-            "StreetLove?",
             "Tatsumi02233",
             "Viz1c0l",
             "aaronquito",
@@ -35,18 +33,13 @@
             "sara_dj03",
             "wtf_nin4",
             "°ChimiRuMyX°",
-            "ɪᴛᴢᴜɴʏ ®",
             "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
             "ო Y A M I ო",
             "ღEquiღ",
             "ღᴋᴀᴍɪᴍɪ",
-            "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴋɪᴋo",
-            "ᴏnly",
             "ᴘᴀᴘɪᴀɴᴅʏᴋɪɴɢ®",
             "ᴰᴼ卄ᴬ",
-            "『ϟsxϟ』ツ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ＴＯＫＡＹＯ",
             "ｍｅｏｗ?"
@@ -82,14 +75,7 @@
                 "sara_dj03"
             ],
             "12": [
-                "ᴇᴛᴀᴅɪʟᴀᴠ",
-                "ɪᴛᴢᴜɴʏ ®",
-                "StreetLove?",
-                "Kii70",
-                "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
-                "ᴋɪᴋo",
-                "ᴏnly",
-                "『ϟsxϟ』ツ"
+                "ᴇᴛᴀᴅɪʟᴀᴠ"
             ],
             "7": [
                 "KatheKatt"
@@ -409,6 +395,28 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -442,28 +450,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -573,6 +559,17 @@
     },
     {
         "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -605,7 +602,6 @@
             "Josuewe",
             "KaosKynG",
             "Karlozz",
-            "Kii70",
             "LEA ღ",
             "LadyBoom9",
             "LiardT",
@@ -619,7 +615,6 @@
             "Sanssha",
             "Shyvanae",
             "SrCuatro",
-            "StreetLove?",
             "SugarLoliUwU",
             "Sunday0",
             "SwuuXy",
@@ -651,34 +646,17 @@
             "marovimartin",
             "sg_1464",
             "ucranianalive_",
-            "ɪᴛᴢᴜɴʏ ®",
             "ʀʊʄʊʟ",
             "ʙᴀʀᴄᴏᴅᴇ",
             "ʚ -Moonwolf- ɞ",
             "ʚ-Aquileswolf-ɞ",
             "ო Y A M I ო",
-            "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴋɪᴅᴀ_ʟʏs22",
-            "ᴋɪᴋo",
-            "ᴏnly",
-            "『ϟsxϟ』ツ",
             "ＴＯＫＡＹＯ",
             "ｱﾑｱﾑｷ尺ﾉｲﾑ"
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
         ]
     },
     {
