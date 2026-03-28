@@ -569,6 +569,17 @@
     },
     {
         "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -666,17 +677,6 @@
     },
     {
         "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -689,6 +689,17 @@
         ],
         "groups": [
             "InversorA"
+        ]
+    },
+    {
+        "ranks": [
+            "Friends"
+        ],
+        "users": [
+            "Nanadelka"
+        ],
+        "groups": [
+            "Friends"
         ]
     }
 ]
