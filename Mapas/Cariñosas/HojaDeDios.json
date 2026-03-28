@@ -177,6 +177,7 @@
             "Mike300w",
             "MokaPaut",
             "Naim Ulloa",
+            "Nanadelka",
             "NeoDino",
             "Pao_EliUwu19k",
             "ParzivalOkazaki",
@@ -281,7 +282,8 @@
                 "-Yggdrasil"
             ],
             "11": [
-                "Amurysse"
+                "Amurysse",
+                "Nanadelka"
             ],
             "15": [
                 "_Viscochin_",
@@ -403,28 +405,6 @@
     },
     {
         "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -458,6 +438,28 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
         ]
     },
     {
@@ -569,17 +571,6 @@
     },
     {
         "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -617,6 +608,7 @@
             "LiardT",
             "Luismi92",
             "Mike300w",
+            "Nanadelka",
             "Pao_EliUwu19k",
             "Prototipo0121",
             "Robi1",
@@ -677,6 +669,17 @@
     },
     {
         "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
+        ]
+    },
+    {
+        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -689,17 +692,6 @@
         ],
         "groups": [
             "InversorA"
-        ]
-    },
-    {
-        "ranks": [
-            "Friends"
-        ],
-        "users": [
-            "Nanadelka"
-        ],
-        "groups": [
-            "Friends"
         ]
     }
 ]
