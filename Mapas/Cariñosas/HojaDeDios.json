@@ -76,7 +76,8 @@
                 "MaurixG",
                 "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
                 "ReikaVermysthra",
-                "ᴰᴼ卄ᴬ"
+                "ᴰᴼ卄ᴬ",
+                "ᴘᴀᴘɪᴀɴᴅʏᴋɪɴɢ®"
             ],
             "2": [
                 "sara_dj03"
@@ -104,9 +105,6 @@
             ],
             "6": [
                 "Dios Carmesi"
-            ],
-            "9": [
-                "ᴘᴀᴘɪᴀɴᴅʏᴋɪɴɢ®"
             ],
             "1": [
                 "dequer12",
@@ -405,6 +403,28 @@
     },
     {
         "ranks": [
+            "JokerCircus"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "Amurysse",
+            "Cuervito_",
+            "FXSCAR",
+            "GreyGrace",
+            "KirikuVT",
+            "Lady Farya",
+            "MarlonQC",
+            "MokaPaut",
+            "Naim Ulloa",
+            "RocketSaul",
+            "XionWolf V"
+        ],
+        "groups": [
+            "JokerCircus"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -438,28 +458,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "JokerCircus"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "Amurysse",
-            "Cuervito_",
-            "FXSCAR",
-            "GreyGrace",
-            "KirikuVT",
-            "Lady Farya",
-            "MarlonQC",
-            "MokaPaut",
-            "Naim Ulloa",
-            "RocketSaul",
-            "XionWolf V"
-        ],
-        "groups": [
-            "JokerCircus"
         ]
     },
     {
@@ -571,17 +569,6 @@
     },
     {
         "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -675,6 +662,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
