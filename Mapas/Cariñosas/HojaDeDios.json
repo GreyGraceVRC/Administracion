@@ -573,17 +573,6 @@
     },
     {
         "ranks": [
-            "InversorB"
-        ],
-        "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
-        ],
-        "groups": [
-            "InversorB"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -678,6 +667,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
