@@ -280,10 +280,6 @@
                 "Lady Farya",
                 "-Yggdrasil"
             ],
-            "11": [
-                "Amurysse",
-                "Nanadelka"
-            ],
             "15": [
                 "_Viscochin_",
                 "VenusAlyx",
@@ -301,6 +297,10 @@
                 "Warm®",
                 "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
                 "ParzivalOkazaki"
+            ],
+            "11": [
+                "Amurysse",
+                "Nanadelka"
             ],
             "3": [
                 "Yukι-Nαgαto"
@@ -448,7 +448,6 @@
         ],
         "users": [
             "-Yggdrasil",
-            "Amurysse",
             "Cuervito_",
             "FXSCAR",
             "GreyGrace",
@@ -477,18 +476,6 @@
         ],
         "groups": [
             "Mod"
-        ]
-    },
-    {
-        "ranks": [
-            "DancerCapitan"
-        ],
-        "users": [
-            "Amurysse",
-            "KatheKatt"
-        ],
-        "groups": [
-            "DancerCapitan"
         ]
     },
     {
@@ -569,6 +556,17 @@
         ],
         "groups": [
             "Bonice"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorB"
+        ],
+        "users": [
+            "ᴇᴛᴀᴅɪʟᴀᴠ"
+        ],
+        "groups": [
+            "InversorB"
         ]
     },
     {
@@ -668,13 +666,14 @@
     },
     {
         "ranks": [
-            "InversorB"
+            "DancerCapitan"
         ],
         "users": [
-            "ᴇᴛᴀᴅɪʟᴀᴠ"
+            "Amurysse",
+            "KatheKatt"
         ],
         "groups": [
-            "InversorB"
+            "DancerCapitan"
         ]
     },
     {
