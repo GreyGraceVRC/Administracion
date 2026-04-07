@@ -4,8 +4,7 @@
             "Admin"
         ],
         "users": [
-            "JokerStein",
-            "Sainthe"
+            "JokerStein"
         ],
         "groups": [
             "Admin"
@@ -49,7 +48,6 @@
             "Sԋυɳҽ",
             "Tocina Bacon",
             "VEПDEƬƬΛ",
-            "Warm®",
             "Yasashi Teyko",
             "ZooboxSan",
             "berna mow",
@@ -76,8 +74,10 @@
             "Akita Neru〆",
             "Kii70",
             "Pely Vega",
+            "Sainthe",
             "StreetLove?",
             "Viz1c0l",
+            "Warm®",
             "aaronquito",
             "ari․33",
             "dequer12",
@@ -96,7 +96,43 @@
         ],
         "groups": [
             "Banners2"
-        ]
+        ],
+        "custom_indexes": {
+            "12": [
+                "Warm®",
+                "ᴇᴛᴀᴅɪʟᴀᴠ",
+                "ɪᴛᴢᴜɴʏ ®",
+                "StreetLove?",
+                "Kii70",
+                "ᴄ̶ʜ̶ᴀ̶ɴ̶ᴇ̶ʟ̶",
+                "ᴋɪᴋo",
+                "ᴏnly"
+            ],
+            "1": [
+                "Akita Neru〆",
+                "josyelin",
+                "dequer12"
+            ],
+            "9": [
+                "Sainthe"
+            ],
+            "11": [
+                "ＴＯＫＡＹＯ",
+                "ო Y A M I ო",
+                "duckis",
+                "Pely Vega",
+                "ari․33"
+            ],
+            "15": [
+                "pepemota7749",
+                "wtf_nin4",
+                "°ChimiRuMyX°",
+                "Viz1c0l"
+            ],
+            "6": [
+                "aaronquito"
+            ]
+        }
     },
     {
         "ranks": [
@@ -131,8 +167,7 @@
             "Admin"
         ],
         "users": [
-            "JokerStein",
-            "Sainthe"
+            "JokerStein"
         ],
         "groups": [
             "Admin"
@@ -172,6 +207,7 @@
             "Robi1",
             "SCrifer",
             "SSJSour",
+            "Sainthe",
             "Shyvanae",
             "SrCuatro",
             "StreetLove?",
