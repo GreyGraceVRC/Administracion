@@ -27,6 +27,7 @@
             "Fluffy_kiwi",
             "FryslangX",
             "Funas",
+            "Gio©",
             "GreyGrace",
             "INFINITY_II",
             "Icοn4500",
@@ -41,6 +42,7 @@
             "LadyBoom9",
             "LiardT",
             "Luismi92",
+            "MaurixG",
             "Mikama",
             "MithZh",
             "MokaPaut",
@@ -117,6 +119,17 @@
                 "-Yggdrasil",
                 "Yamita"
             ],
+            "15": [
+                "Gio©",
+                "MaurixG",
+                "VenusAlyx",
+                "Faaka_vr",
+                "sʟʏ ®",
+                "kfezito",
+                "˚ʚ sᴛᴀʀ ɞ˚",
+                "Ŧɭคкค_02",
+                "Mikama"
+            ],
             "16": [
                 "karу",
                 "JokerStein"
@@ -129,15 +142,6 @@
             ],
             "11": [
                 "Amurysse"
-            ],
-            "15": [
-                "VenusAlyx",
-                "Faaka_vr",
-                "sʟʏ ®",
-                "kfezito",
-                "˚ʚ sᴛᴀʀ ɞ˚",
-                "Ŧɭคкค_02",
-                "Mikama"
             ],
             "3": [
                 "Yukι-Nαgαto"
@@ -229,13 +233,11 @@
             "Dios Carmesi",
             "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "Erill․♥",
-            "Gio©",
             "JMAUPS",
             "JanusRR",
             "KatheKatt",
             "Kii70",
             "MarlonQC",
-            "MaurixG",
             "MΛTHIΛ",
             "OsitoPauPau",
             "Pely Vega",
@@ -282,13 +284,11 @@
                 "Shirou1711",
                 "Roxytooty",
                 "OsitoPauPau",
-                "Gio©",
                 "ღᴋᴀᴍɪᴍɪ",
                 "Erill․♥",
                 "ｍｅｏｗ?",
                 "Seruly",
                 "D O V Ē",
-                "MaurixG",
                 "ʚɞ sᴇx ᴅᴇsɪʀᴇ",
                 "ReikaVermysthra",
                 "ᴰᴼ卄ᴬ",
@@ -400,7 +400,6 @@
         "users": [
             "D O V Ē",
             "Erill․♥",
-            "Gio©",
             "MaurixG",
             "OsitoPauPau",
             "ReikaVermysthra",
@@ -415,6 +414,24 @@
         ],
         "groups": [
             "DancerCari"
+        ]
+    },
+    {
+        "ranks": [
+            "DancerGuest"
+        ],
+        "users": [
+            "Faaka_vr",
+            "Gio©",
+            "Mikama",
+            "VenusAlyx",
+            "kfezito",
+            "sʟʏ ®",
+            "Ŧɭคкค_02",
+            "˚ʚ sᴛᴀʀ ɞ˚"
+        ],
+        "groups": [
+            "DancerGuest"
         ]
     },
     {
@@ -486,23 +503,6 @@
         ],
         "groups": [
             "InversorA"
-        ]
-    },
-    {
-        "ranks": [
-            "DancerGuest"
-        ],
-        "users": [
-            "Faaka_vr",
-            "Mikama",
-            "VenusAlyx",
-            "kfezito",
-            "sʟʏ ®",
-            "Ŧɭคкค_02",
-            "˚ʚ sᴛᴀʀ ɞ˚"
-        ],
-        "groups": [
-            "DancerGuest"
         ]
     },
     {
