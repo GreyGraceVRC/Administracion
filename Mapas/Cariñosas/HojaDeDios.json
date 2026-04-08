@@ -138,9 +138,6 @@
             "11": [
                 "Amurysse"
             ],
-            "3": [
-                "Yukι-Nαgαto"
-            ],
             "5": [
                 "MithZh",
                 "ღKomisito",
@@ -196,6 +193,9 @@
                 "Karlozz",
                 "Ladeltattoo_",
                 "ElMichiii"
+            ],
+            "3": [
+                "Yukι-Nαgαto"
             ],
             "6": [
                 "ᴜѕᴀɢɪᴠʀ",
@@ -501,8 +501,7 @@
             "Co-Owner"
         ],
         "users": [
-            "Dios Carmesi",
-            "Yukι-Nαgαto"
+            "Dios Carmesi"
         ],
         "groups": [
             "Co-Owner"
@@ -522,6 +521,17 @@
         ],
         "groups": [
             "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "StaffMayor"
+        ],
+        "users": [
+            "Yukι-Nαgαto"
+        ],
+        "groups": [
+            "StaffMayor"
         ]
     },
     {
