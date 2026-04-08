@@ -447,6 +447,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "WorldDestroyers"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
