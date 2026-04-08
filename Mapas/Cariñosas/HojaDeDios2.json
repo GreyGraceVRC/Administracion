@@ -157,6 +157,22 @@
     },
     {
         "ranks": [
+            "Banners1"
+        ],
+        "users": [
+            "NeoDino"
+        ],
+        "groups": [
+            "Banners1"
+        ],
+        "custom_indexes": {
+            "8": [
+                "NeoDino"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Admin"
         ],
         "users": [
@@ -247,6 +263,7 @@
             "Jensell1",
             "MarlonQC",
             "Naim Ulloa",
+            "NeoDino",
             "Pely Vega",
             "Sofi-Sticada",
             "SymphonyOwU",
