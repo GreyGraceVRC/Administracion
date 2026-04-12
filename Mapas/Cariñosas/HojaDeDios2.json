@@ -130,6 +130,26 @@
     },
     {
         "ranks": [
+            "Banners1"
+        ],
+        "users": [
+            "Naim Ulloa",
+            "NeoDino"
+        ],
+        "groups": [
+            "Banners1"
+        ],
+        "custom_indexes": {
+            "13": [
+                "Naim Ulloa"
+            ],
+            "8": [
+                "NeoDino"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -139,7 +159,6 @@
             "Fluffy_kiwi",
             "Jensell1",
             "MarlonQC",
-            "Naim Ulloa",
             "Sofi-Sticada",
             "SymphonyOwU",
             "Vexiop",
@@ -155,22 +174,6 @@
         "groups": [
             "Partner"
         ]
-    },
-    {
-        "ranks": [
-            "Banners1"
-        ],
-        "users": [
-            "NeoDino"
-        ],
-        "groups": [
-            "Banners1"
-        ],
-        "custom_indexes": {
-            "8": [
-                "NeoDino"
-            ]
-        }
     },
     {
         "ranks": [
@@ -207,6 +210,7 @@
             "LadyBoom9",
             "Luismi92",
             "Mʀ sᴇxᴏ",
+            "Naim Ulloa",
             "Pau_pau19",
             "Pely Vega",
             "Robi1",
