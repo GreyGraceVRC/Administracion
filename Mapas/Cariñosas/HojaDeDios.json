@@ -16,7 +16,6 @@
             "ElMichiii",
             "Estrella_leal2",
             "FXSCAR",
-            "Fire_Starter",
             "Fluffy_kiwi",
             "Funas",
             "Gio©",
@@ -44,14 +43,12 @@
             "Pao_EliUwu19k",
             "ParzivalOkazaki",
             "Rama_el_ligre",
-            "Robi1",
             "RocketSaul",
             "Six007",
             "Sofi-Sticada",
             "SymphonyOwU",
             "Tiburcio 435f",
             "Tocina Bacon",
-            "VEПDEƬƬΛ",
             "Vexiop",
             "Warm®",
             "WorldDestroyers",
@@ -75,8 +72,6 @@
             "Ƙυѕт",
             "ɠʅαƈҽ",
             "ɴᴏxγ",
-            "ʚ -Moonwolf- ɞ",
-            "ʚ-Aquileswolf-ɞ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "˚ʚ sᴛᴀʀ ɞ˚",
             "ღKomisito",
@@ -131,13 +126,8 @@
                 "Nanadelka",
                 "K I Z T A S",
                 "WorldDestroyers",
-                "VEПDEƬƬΛ",
-                "ʚ-Aquileswolf-ɞ",
-                "ʚ -Moonwolf- ɞ",
                 "hakunamatata93",
                 "marovimartin",
-                "Robi1",
-                "Fire_Starter",
                 "Ladeltattoo_",
                 "ElMichiii",
                 "Six007",
@@ -441,60 +431,6 @@
     },
     {
         "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "-Jane Doe",
-            "AiriiChan",
-            "Capibara․ 1eb1",
-            "ElMichiii",
-            "Estrella_leal2",
-            "Fire_Starter",
-            "Hate ®",
-            "Icοn4500",
-            "Idk․VRnew 136b",
-            "IzFenyX",
-            "Karlozz",
-            "Kevin GlezAnc",
-            "Kii70",
-            "Ladeltattoo_",
-            "LawlietF3RrAz",
-            "Mʀ sᴇxᴏ",
-            "Pao_EliUwu19k",
-            "Pely Vega",
-            "Robi1",
-            "Six007",
-            "StreetLove?",
-            "Tiburcio 435f",
-            "Tocina Bacon",
-            "VEПDEƬƬΛ",
-            "ari․33",
-            "divе",
-            "duckis",
-            "el․bendito․vr b4db",
-            "h3n․r13",
-            "hakunamatata93",
-            "marovimartin",
-            "nala َ",
-            "permission®",
-            "raycrash",
-            "ɠʅαƈҽ",
-            "ɪᴛᴢᴜɴʏ ®",
-            "ɴᴏxγ",
-            "ʀᴏᴛᴛᴇɴෆ",
-            "ʚ -Moonwolf- ɞ",
-            "ʚ-Aquileswolf-ɞ",
-            "ო Y A M I ო",
-            "ᴀᴅʀɪᴀɴᴀღ",
-            "ᴋɪᴋo",
-            "ᴏnly"
-        ],
-        "groups": [
-            "VIP"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -527,6 +463,51 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "VIP"
+        ],
+        "users": [
+            "-Jane Doe",
+            "AiriiChan",
+            "Capibara․ 1eb1",
+            "ElMichiii",
+            "Estrella_leal2",
+            "Hate ®",
+            "Icοn4500",
+            "Idk․VRnew 136b",
+            "IzFenyX",
+            "Karlozz",
+            "Kevin GlezAnc",
+            "Kii70",
+            "Ladeltattoo_",
+            "LawlietF3RrAz",
+            "Mʀ sᴇxᴏ",
+            "Pao_EliUwu19k",
+            "Six007",
+            "StreetLove?",
+            "Tiburcio 435f",
+            "Tocina Bacon",
+            "divе",
+            "el․bendito․vr b4db",
+            "h3n․r13",
+            "hakunamatata93",
+            "marovimartin",
+            "nala َ",
+            "permission®",
+            "raycrash",
+            "ɠʅαƈҽ",
+            "ɪᴛᴢᴜɴʏ ®",
+            "ɴᴏxγ",
+            "ʀᴏᴛᴛᴇɴෆ",
+            "ᴀᴅʀɪᴀɴᴀღ",
+            "ᴋɪᴋo",
+            "ᴏnly"
+        ],
+        "groups": [
+            "VIP"
         ]
     }
 ]
