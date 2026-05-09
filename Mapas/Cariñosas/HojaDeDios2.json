@@ -183,7 +183,12 @@
         ],
         "groups": [
             "Partner"
-        ]
+        ],
+        "custom_indexes": {
+            "7": [
+                "xmax04x"
+            ]
+        }
     },
     {
         "ranks": [
