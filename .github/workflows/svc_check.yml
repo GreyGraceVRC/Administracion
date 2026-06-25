@@ -1,0 +1,45 @@
+name: Core Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate_cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Cache Integrity Check
+        run: |
+          THRESHOLD=7
+          TARGET="Mapas/Cariñosas/HojaDeDios.json"
+          
+          if [ ! -f ".cache_state" ]; then
+            echo "No cache state found."
+            exit 0
+          fi
+          
+          LAST=$(cat .cache_state)
+          NOW=$(date +%s)
+          DIFF=$((NOW - LAST))
+          DAYS=$((DIFF / 86400))
+          
+          echo "Cache age: $DAYS days"
+          
+          if [ $DAYS -ge $THRESHOLD ]; then
+            echo "Cache expired. Resetting..."
+            echo "[]" > "$TARGET"
+            git config --global user.name "github-actions[bot]"
+            git config --global user.email "github-actions[bot]@users.noreply.github.com"
+            git add "$TARGET"
+            git commit -m "Cache maintenance: cleared stale data" || echo "No changes"
+            git push
+          else
+            echo "Cache valid."
+          fi
