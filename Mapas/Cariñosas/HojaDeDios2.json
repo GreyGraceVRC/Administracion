@@ -82,6 +82,7 @@
             "KeyBlack",
             "Kii70",
             "Layzana",
+            "Leunamm",
             "LittleSam_01",
             "Louenzツ",
             "Miss_Kurumi",
@@ -99,7 +100,6 @@
             "xmax04x",
             "¨L0r3Gh02t¨",
             "ʀᴏᴛᴛᴇɴෆ",
-            "ʟᴇᴜ ®",
             "ო Y A M I ო",
             "ღGALIღ",
             "ღKyokaღ",
@@ -144,7 +144,7 @@
                 "LittleSam_01",
                 "ღGALIღ",
                 "Ｅｕｐｈｏｒｉｉａ",
-                "ʟᴇᴜ ®",
+                "Leunamm",
                 "ClечbеяЯ ®",
                 "lokito_sen",
                 "Inalca©",
@@ -267,6 +267,22 @@
     },
     {
         "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Enidtza",
+            "Lexi_Cineru",
+            "OnealPR_",
+            "Sandu ShengShou",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -357,6 +373,7 @@
             "Inalca©",
             "Jensell1",
             "Layzana",
+            "Leunamm",
             "Lexi_Cineru",
             "LittleSam_01",
             "MarlonQC",
@@ -379,7 +396,6 @@
             "orochigamerlol",
             "rubyphoenix7",
             "xmax04x",
-            "ʟᴇᴜ ®",
             "ღGALIღ",
             "ᴅᴀᴍᴏɴsᴇx",
             "ᴜѕᴀɢɪᴠʀ",
@@ -388,22 +404,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Enidtza",
-            "Lexi_Cineru",
-            "OnealPR_",
-            "Sandu ShengShou",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
-        ],
-        "groups": [
-            "InversorA"
         ]
     }
 ]
