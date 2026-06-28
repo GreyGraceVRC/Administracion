@@ -32,22 +32,18 @@
         ],
         "users": [
             "-Yggdrasil",
-            "AKIKURA",
             "ALISSVR",
-            "AmparithoG",
             "BebecitaShey",
             "Bebé Koala",
             "Cyan_Nyah_Desu",
             "ELE__",
             "HΞYYNΛTΞ",
             "Its_perla",
-            "Kanekey",
             "Karlozz",
             "Lʏɴx",
             "NeoTillas",
             "Robi1",
             "SRHiggins",
-            "Trushz",
             "VEПDEƬƬΛ",
             "Yasashi Teyko",
             "Yukι-Nαgαto",
@@ -58,8 +54,6 @@
             "nana ̉",
             "orincon3 d710",
             "plomitogram",
-            "¿RED X?",
-            "ȻĦƗNA",
             "ɢᴏᴛɪ",
             "нσѕнι",
             "༒๖ۣۣۜАlex༒",
@@ -231,6 +225,32 @@
                 "rubyphoenix7",
                 "ᴅᴀᴍᴏɴsᴇx",
                 "Bulletproof 生新"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "AKIKURA",
+            "AmparithoG",
+            "Kanekey",
+            "Trushz",
+            "¿RED X?",
+            "ȻĦƗNA"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "1": [
+                "Trushz",
+                "ȻĦƗNA",
+                "Kanekey",
+                "AmparithoG",
+                "AKIKURA",
+                "¿RED X?"
             ]
         }
     },
