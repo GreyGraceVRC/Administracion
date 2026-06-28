@@ -6,11 +6,9 @@
         "users": [
             "-DanteDMC-",
             "-Yggdrasil",
-            "AKIKURA",
             "ALISSVR",
             "ASTAABOYY99",
             "Alèysha",
-            "AmparithoG",
             "Amurysse",
             "Aʙᴢᴀʟᴏᴛ Lᴜɴᴀ",
             "BebecitaShey",
@@ -36,7 +34,6 @@
             "JoJoCorgi",
             "JokerStein",
             "K I Z T A S",
-            "Kanekey",
             "Kfe©",
             "KirikuVT",
             "Lady Farya",
@@ -60,7 +57,6 @@
             "Saltimbanki",
             "Sasakiii_i",
             "SymphonyOwU",
-            "Trushz",
             "VEПDEƬƬΛ",
             "VenusAlyx",
             "WorldDestroyers",
@@ -88,15 +84,12 @@
             "rubyphoenix7",
             "testeop",
             "zulay",
-            "¿RED X?",
             "Ƙυѕт",
-            "ȻĦƗNA",
             "ɢᴏᴛɪ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "нσѕнι",
             "۶ৎ Byte_EXE ۶ৎ",
             "ঔৣ EvilღRubyঔৣ",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
             "༒orix_souls༒",
             "༒๖ۣۣۜАlex༒",
             "ღDELULUღ",
@@ -201,13 +194,6 @@
                 "Cyan_Nyah_Desu",
                 "BebecitaShey",
                 "Lʏɴx",
-                "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-                "Trushz",
-                "ȻĦƗNA",
-                "Kanekey",
-                "AmparithoG",
-                "AKIKURA",
-                "¿RED X?",
                 "NeoTillas",
                 "elgrande_32",
                 "kristini",
@@ -418,6 +404,34 @@
                 "Layzana",
                 "Owchie_xo",
                 "nyamty_45"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "AKIKURA",
+            "AmparithoG",
+            "Kanekey",
+            "Trushz",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "1": [
+                "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+                "Trushz",
+                "ȻĦƗNA",
+                "Kanekey",
+                "AmparithoG",
+                "AKIKURA",
+                "¿RED X?"
             ]
         }
     },
