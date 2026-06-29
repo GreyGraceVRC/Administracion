@@ -32,22 +32,18 @@
         ],
         "users": [
             "-Yggdrasil",
-            "AKIKURA",
             "ALISSVR",
-            "AmparithoG",
             "BebecitaShey",
             "Bebé Koala",
             "Cyan_Nyah_Desu",
             "ELE__",
             "HΞYYNΛTΞ",
             "Its_perla",
-            "Kanekey",
             "Karlozz",
             "Lʏɴx",
             "NeoTillas",
             "Robi1",
             "SRHiggins",
-            "Trushz",
             "VEПDEƬƬΛ",
             "Yasashi Teyko",
             "Yukι-Nαgαto",
@@ -58,8 +54,6 @@
             "nana ̉",
             "orincon3 d710",
             "plomitogram",
-            "¿RED X?",
-            "ȻĦƗNA",
             "ɢᴏᴛɪ",
             "нσѕнι",
             "༒๖ۣۣۜАlex༒",
@@ -236,6 +230,32 @@
     },
     {
         "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "AKIKURA",
+            "AmparithoG",
+            "Kanekey",
+            "Trushz",
+            "¿RED X?",
+            "ȻĦƗNA"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "1": [
+                "Trushz",
+                "ȻĦƗNA",
+                "Kanekey",
+                "AmparithoG",
+                "AKIKURA",
+                "¿RED X?"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -270,6 +290,76 @@
         ],
         "groups": [
             "Admin"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Enidtza",
+            "Lexi_Cineru",
+            "OnealPR_",
+            "Sandu ShengShou",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "Akita Neru〆",
+            "Amurysse",
+            "Bulletproof 生新",
+            "C0quita_",
+            "Cazadora UwU",
+            "ClечbеяЯ ®",
+            "Darect",
+            "Dark-Ni",
+            "Diva Virtual",
+            "Enidtza",
+            "FXSCAR",
+            "Fluffy_kiwi",
+            "Inalca©",
+            "Jensell1",
+            "Layzana",
+            "Leunamm",
+            "Lexi_Cineru",
+            "LittleSam_01",
+            "MarlonQC",
+            "Miss_Kurumi",
+            "Naim Ulloa",
+            "NeoDino",
+            "OnealPR_",
+            "Owchie_xo",
+            "RocketSaul",
+            "Saltimbanki",
+            "Sansito_s",
+            "Sofi-Sticada",
+            "SymphonyOwU",
+            "S̶e̶x̶ Drive",
+            "XionWolf V",
+            "ayla__",
+            "innari",
+            "lokito_sen",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "xmax04x",
+            "ღGALIღ",
+            "ᴅᴀᴍᴏɴsᴇx",
+            "ᴜѕᴀɢɪᴠʀ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "Ｓｈｎａｐｉｉ"
+        ],
+        "groups": [
+            "Partner"
         ]
     },
     {
@@ -348,76 +438,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "Akita Neru〆",
-            "Amurysse",
-            "Bulletproof 生新",
-            "C0quita_",
-            "Cazadora UwU",
-            "ClечbеяЯ ®",
-            "Darect",
-            "Dark-Ni",
-            "Diva Virtual",
-            "Enidtza",
-            "FXSCAR",
-            "Fluffy_kiwi",
-            "Inalca©",
-            "Jensell1",
-            "Layzana",
-            "Leunamm",
-            "Lexi_Cineru",
-            "LittleSam_01",
-            "MarlonQC",
-            "Miss_Kurumi",
-            "Naim Ulloa",
-            "NeoDino",
-            "OnealPR_",
-            "Owchie_xo",
-            "RocketSaul",
-            "Saltimbanki",
-            "Sansito_s",
-            "Sofi-Sticada",
-            "SymphonyOwU",
-            "S̶e̶x̶ Drive",
-            "XionWolf V",
-            "ayla__",
-            "innari",
-            "lokito_sen",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "xmax04x",
-            "ღGALIღ",
-            "ᴅᴀᴍᴏɴsᴇx",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "Ｓｈｎａｐｉｉ"
-        ],
-        "groups": [
-            "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Enidtza",
-            "Lexi_Cineru",
-            "OnealPR_",
-            "Sandu ShengShou",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
-        ],
-        "groups": [
-            "InversorA"
         ]
     }
 ]
