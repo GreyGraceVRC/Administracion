@@ -39,21 +39,16 @@
             "ELE__",
             "HΞYYNΛTΞ",
             "Its_perla",
-            "Josuewe",
             "Karlozz",
-            "LadyBoom9",
             "Lʏɴx",
-            "MrHuesos",
             "NeoTillas",
             "SRHiggins",
-            "TITO~JR COCO",
             "VEПDEƬƬΛ",
             "Yasashi Teyko",
             "Yukι-Nαgαto",
             "ZeroPositivo",
             "_MimiPR_",
             "hakunamatata93",
-            "iTeo_zz",
             "lace゛",
             "marovimartin",
             "nana ̉",
@@ -225,9 +220,14 @@
         "users": [
             "AKIKURA",
             "AmparithoG",
+            "Josuewe",
             "Kanekey",
+            "LadyBoom9",
+            "MrHuesos",
+            "TITO~JR COCO",
             "Trushz",
             "ayla__",
+            "iTeo_zz",
             "¿RED X?",
             "ȻĦƗNA"
         ],
@@ -245,6 +245,13 @@
                 "AmparithoG",
                 "AKIKURA",
                 "¿RED X?"
+            ],
+            "3": [
+                "iTeo_zz",
+                "Josuewe",
+                "LadyBoom9",
+                "MrHuesos",
+                "TITO~JR COCO"
             ]
         }
     },
@@ -367,6 +374,23 @@
     },
     {
         "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Dark-Ni",
+            "Enidtza",
+            "Lexi_Cineru",
+            "OnealPR_",
+            "Sandu ShengShou",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -417,23 +441,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Dark-Ni",
-            "Enidtza",
-            "Lexi_Cineru",
-            "OnealPR_",
-            "Sandu ShengShou",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
-        ],
-        "groups": [
-            "InversorA"
         ]
     }
 ]
