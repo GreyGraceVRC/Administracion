@@ -52,119 +52,22 @@
             "lace゛",
             "marovimartin",
             "nana ̉",
+            "orincon3 d710",
             "plomitogram",
-            "нσѕнι",
+            "ɢᴏᴛɪ",
             "༒๖ۣۣۜАlex༒",
             "ღDELULUღ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴘᴇᴘɪɴᴀᴢosoシ",
             "ᴛᴏᴋɪᴏ",
             "『ϟsxϟ』ツ",
             "ㄥㄖ丫卂ㄥㄒ丫",
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "＋Aquiles_wolff＋",
             "Ｗarm"
         ],
         "groups": [
             "VIP"
         ]
-    },
-    {
-        "ranks": [
-            "Banners2"
-        ],
-        "users": [
-            "ARI ARES",
-            "Akihide",
-            "C0quita_",
-            "ClечbеяЯ ®",
-            "Darect",
-            "Diva Virtual",
-            "Inalca©",
-            "KeyBlack",
-            "Kii70",
-            "Layzana",
-            "LittleSam_01",
-            "Louenzツ",
-            "Miss_Kurumi",
-            "Owchie_xo",
-            "Sansito_s",
-            "Sofi-Sticada",
-            "S̶e̶x̶ Drive",
-            "Tachibana-",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
-            "Yuan X",
-            "cortis9",
-            "lokito_sen",
-            "nyamty_45",
-            "xmax04x",
-            "¨L0r3Gh02t¨",
-            "ʀᴏᴛᴛᴇɴෆ",
-            "ʟᴇᴜ ®",
-            "ო Y A M I ო",
-            "ღGALIღ",
-            "ღKyokaღ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴏnly",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "Banners2"
-        ],
-        "custom_indexes": {
-            "12": [
-                "ᴇᴛᴀᴅɪʟᴀᴠ",
-                "Kii70",
-                "ʀᴏᴛᴛᴇɴෆ",
-                "ᴏnly",
-                "Louenzツ"
-            ],
-            "9": [
-                "ＴＯＫＡＹＯ",
-                "ო Y A M I ო",
-                "ARI ARES",
-                "cortis9",
-                "Yuan X"
-            ],
-            "3": [
-                "ღKyokaღ",
-                "KeyBlack",
-                "¨L0r3Gh02t¨",
-                "Tachibana-"
-            ],
-            "15": [
-                "XoX_Ashley_XoX",
-                "XxX_Alexa_XxX"
-            ],
-            "16": [
-                "Akihide"
-            ],
-            "11": [
-                "Sofi-Sticada",
-                "LittleSam_01",
-                "ღGALIღ",
-                "Ｅｕｐｈｏｒｉｉａ",
-                "ʟᴇᴜ ®",
-                "ClечbеяЯ ®",
-                "lokito_sen",
-                "Inalca©",
-                "Miss_Kurumi",
-                "S̶e̶x̶ Drive"
-            ],
-            "10": [
-                "xmax04x",
-                "C0quita_",
-                "Diva Virtual",
-                "Darect",
-                "Sansito_s"
-            ],
-            "1": [
-                "Layzana",
-                "Owchie_xo",
-                "nyamty_45"
-            ]
-        }
     },
     {
         "ranks": [
@@ -219,6 +122,92 @@
                 "rubyphoenix7",
                 "ᴅᴀᴍᴏɴsᴇx",
                 "Bulletproof 生新"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners2"
+        ],
+        "users": [
+            "ARI ARES",
+            "Akihide",
+            "C0quita_",
+            "ClечbеяЯ ®",
+            "Darect",
+            "Diva Virtual",
+            "Inalca©",
+            "KeyBlack",
+            "Layzana",
+            "LittleSam_01",
+            "Miss_Kurumi",
+            "Owchie_xo",
+            "Sansito_s",
+            "Sofi-Sticada",
+            "S̶e̶x̶ Drive",
+            "Tachibana-",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
+            "Yuan X",
+            "cortis9",
+            "lokito_sen",
+            "nyamty_45",
+            "xmax04x",
+            "¨L0r3Gh02t¨",
+            "ʟᴇᴜ ®",
+            "ო Y A M I ო",
+            "ღGALIღ",
+            "ღKyokaღ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "Banners2"
+        ],
+        "custom_indexes": {
+            "9": [
+                "ＴＯＫＡＹＯ",
+                "ო Y A M I ო",
+                "ARI ARES",
+                "cortis9",
+                "Yuan X"
+            ],
+            "3": [
+                "ღKyokaღ",
+                "KeyBlack",
+                "¨L0r3Gh02t¨",
+                "Tachibana-"
+            ],
+            "15": [
+                "XoX_Ashley_XoX",
+                "XxX_Alexa_XxX"
+            ],
+            "16": [
+                "Akihide"
+            ],
+            "11": [
+                "Sofi-Sticada",
+                "LittleSam_01",
+                "ღGALIღ",
+                "Ｅｕｐｈｏｒｉｉａ",
+                "ʟᴇᴜ ®",
+                "ClечbеяЯ ®",
+                "lokito_sen",
+                "Inalca©",
+                "Miss_Kurumi",
+                "S̶e̶x̶ Drive"
+            ],
+            "10": [
+                "xmax04x",
+                "C0quita_",
+                "Diva Virtual",
+                "Darect",
+                "Sansito_s"
+            ],
+            "1": [
+                "Layzana",
+                "Owchie_xo",
+                "nyamty_45"
             ]
         }
     },
@@ -292,100 +281,6 @@
     },
     {
         "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Dark-Ni",
-            "Enidtza",
-            "Lexi_Cineru",
-            "OnealPR_",
-            "Sandu ShengShou",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "AKIKURA",
-            "ALISSVR",
-            "ARI ARES",
-            "Akihide",
-            "AmparithoG",
-            "BebecitaShey",
-            "Cyan_Nyah_Desu",
-            "Dark-Ni",
-            "Dulcecоmocandy",
-            "ELE__",
-            "Enidtza",
-            "HΞYYNΛTΞ",
-            "Icοn4500",
-            "Its_perla",
-            "Kanekey",
-            "Karlozz",
-            "KeyBlack",
-            "Kii70",
-            "Louenzツ",
-            "Lʏɴx",
-            "Naim Ulloa",
-            "NeoTillas",
-            "SRHiggins",
-            "Sandu ShengShou",
-            "Sasakiii_i",
-            "Tachibana-",
-            "Trushz",
-            "VEПDEƬƬΛ",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
-            "Yasashi Teyko",
-            "Yuan X",
-            "Yukι-Nαgαto",
-            "ZeroPositivo",
-            "_MimiPR_",
-            "ayla__",
-            "cortis9",
-            "elgrande_32",
-            "hakunamatata93",
-            "kristini",
-            "lace゛",
-            "marovimartin",
-            "nana ̉",
-            "plomitogram",
-            "¨L0r3Gh02t¨",
-            "¿RED X?",
-            "ȻĦƗNA",
-            "ʀᴏᴛᴛᴇɴෆ",
-            "нσѕнι",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-            "༒orix_souls༒",
-            "༒๖ۣۣۜАlex༒",
-            "ო Y A M I ო",
-            "ღDELULUღ",
-            "ღKyokaღ",
-            "ᴀѕᴛʀᴀ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴏnly",
-            "ᴘᴇᴘɪɴᴀᴢosoシ",
-            "ᴛᴏᴋɪᴏ",
-            "『ϟsxϟ』ツ",
-            "ㄥㄖ丫卂ㄥㄒ丫",
-            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "＋Aquiles_wolff＋",
-            "ＴＯＫＡＹＯ",
-            "Ｗarm"
-        ],
-        "groups": [
-            "VIP"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -436,6 +331,96 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "VIP"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "AKIKURA",
+            "ALISSVR",
+            "ARI ARES",
+            "Akihide",
+            "AmparithoG",
+            "BebecitaShey",
+            "Cyan_Nyah_Desu",
+            "Dark-Ni",
+            "Dulcecоmocandy",
+            "ELE__",
+            "Enidtza",
+            "HΞYYNΛTΞ",
+            "Icοn4500",
+            "Its_perla",
+            "Kanekey",
+            "Karlozz",
+            "KeyBlack",
+            "Lʏɴx",
+            "Naim Ulloa",
+            "NeoTillas",
+            "SRHiggins",
+            "Sandu ShengShou",
+            "Sasakiii_i",
+            "Tachibana-",
+            "Trushz",
+            "VEПDEƬƬΛ",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
+            "Yasashi Teyko",
+            "Yuan X",
+            "Yukι-Nαgαto",
+            "ZeroPositivo",
+            "_MimiPR_",
+            "ayla__",
+            "cortis9",
+            "elgrande_32",
+            "hakunamatata93",
+            "kristini",
+            "lace゛",
+            "marovimartin",
+            "nana ̉",
+            "orincon3 d710",
+            "plomitogram",
+            "¨L0r3Gh02t¨",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ɢᴏᴛɪ",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+            "༒orix_souls༒",
+            "༒๖ۣۣۜАlex༒",
+            "ო Y A M I ო",
+            "ღDELULUღ",
+            "ღKyokaღ",
+            "ᴀѕᴛʀᴀ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
+            "ᴘᴇᴘɪɴᴀᴢosoシ",
+            "ᴛᴏᴋɪᴏ",
+            "『ϟsxϟ』ツ",
+            "ㄥㄖ丫卂ㄥㄒ丫",
+            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
+            "ＴＯＫＡＹＯ",
+            "Ｗarm"
+        ],
+        "groups": [
+            "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Dark-Ni",
+            "Enidtza",
+            "Lexi_Cineru",
+            "OnealPR_",
+            "Sandu ShengShou",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭"
+        ],
+        "groups": [
+            "InversorA"
         ]
     }
 ]
