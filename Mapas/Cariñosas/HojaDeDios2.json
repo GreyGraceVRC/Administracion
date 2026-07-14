@@ -191,8 +191,6 @@
             "Sansito_s",
             "Sofi-Sticada",
             "S̶e̶x̶ Drive",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
             "Yuan X",
             "lokito_sen",
             "xmax04x",
@@ -211,10 +209,6 @@
                 "ო Y A M I ო",
                 "ARI ARES",
                 "Yuan X"
-            ],
-            "15": [
-                "XoX_Ashley_XoX",
-                "XxX_Alexa_XxX"
             ],
             "16": [
                 "Akihide"
@@ -237,6 +231,22 @@
                 "Diva Virtual",
                 "Darect",
                 "Sansito_s"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "ayla__"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "2": [
+                "ayla__"
             ]
         }
     },
@@ -322,87 +332,6 @@
     },
     {
         "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "AKIKURA",
-            "ALISSVR",
-            "ARI ARES",
-            "Akihide",
-            "AmparithoG",
-            "BebecitaShey",
-            "Cyan_Nyah_Desu",
-            "Dark-Ni",
-            "Dulcecоmocandy",
-            "Enidtza",
-            "HΞYYNΛTΞ",
-            "Icοn4500",
-            "Its_perla",
-            "IvanOliD",
-            "JMAUPS",
-            "Josuewe",
-            "Kanekey",
-            "Karlozz",
-            "KeyBlack",
-            "LadyBoom9",
-            "Lʏɴx",
-            "MrHuesos",
-            "Naim Ulloa",
-            "NeoTillas",
-            "SRHiggins",
-            "Salsa_aa",
-            "Sandu ShengShou",
-            "TITO~JR COCO",
-            "Tachibana-",
-            "Trushz",
-            "VEПDEƬƬΛ",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
-            "Yasashi Teyko",
-            "Yuan X",
-            "Yukι-Nαgαto",
-            "ZeroPositivo",
-            "_MimiPR_",
-            "elgrande_32",
-            "hakunamatata93",
-            "iTeo_zz",
-            "kristini",
-            "lace゛",
-            "marovimartin",
-            "nana ̉",
-            "orincon3 d710",
-            "oyasuu_2213",
-            "plomitogram",
-            "sweetzeromx",
-            "¨L0r3Gh02t¨",
-            "¿RED X?",
-            "ȻĦƗNA",
-            "ɢᴏᴛɪ",
-            "нσѕнι",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-            "༒orix_souls༒",
-            "༒๖ۣۣۜАlex༒",
-            "ო Y A M I ო",
-            "ღDELULUღ",
-            "ღKyokaღ",
-            "ᴀѕᴛʀᴀ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴘᴇᴘɪɴᴀᴢosoシ",
-            "ᴛᴏᴋɪᴏ",
-            "『ϟsxϟ』ツ",
-            "ㄥㄖ丫卂ㄥㄒ丫",
-            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "＋Aquiles_wolff＋",
-            "ＴＯＫＡＹＯ",
-            "Ｗarm"
-        ],
-        "groups": [
-            "VIP"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -452,6 +381,86 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "VIP"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "AKIKURA",
+            "ALISSVR",
+            "ARI ARES",
+            "Akihide",
+            "AmparithoG",
+            "BebecitaShey",
+            "Cyan_Nyah_Desu",
+            "Dark-Ni",
+            "Dulcecоmocandy",
+            "Enidtza",
+            "HΞYYNΛTΞ",
+            "Icοn4500",
+            "Its_perla",
+            "IvanOliD",
+            "JMAUPS",
+            "Josuewe",
+            "Kanekey",
+            "Karlozz",
+            "KeyBlack",
+            "LadyBoom9",
+            "Lʏɴx",
+            "MrHuesos",
+            "Naim Ulloa",
+            "NeoTillas",
+            "SRHiggins",
+            "Salsa_aa",
+            "Sandu ShengShou",
+            "TITO~JR COCO",
+            "Tachibana-",
+            "Trushz",
+            "VEПDEƬƬΛ",
+            "Yasashi Teyko",
+            "Yuan X",
+            "Yukι-Nαgαto",
+            "ZeroPositivo",
+            "_MimiPR_",
+            "ayla__",
+            "elgrande_32",
+            "hakunamatata93",
+            "iTeo_zz",
+            "kristini",
+            "lace゛",
+            "marovimartin",
+            "nana ̉",
+            "orincon3 d710",
+            "oyasuu_2213",
+            "plomitogram",
+            "sweetzeromx",
+            "¨L0r3Gh02t¨",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ɢᴏᴛɪ",
+            "нσѕнι",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+            "༒orix_souls༒",
+            "༒๖ۣۣۜАlex༒",
+            "ო Y A M I ო",
+            "ღDELULUღ",
+            "ღKyokaღ",
+            "ᴀѕᴛʀᴀ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
+            "ᴘᴇᴘɪɴᴀᴢosoシ",
+            "ᴛᴏᴋɪᴏ",
+            "『ϟsxϟ』ツ",
+            "ㄥㄖ丫卂ㄥㄒ丫",
+            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
+            "＋Aquiles_wolff＋",
+            "ＴＯＫＡＹＯ",
+            "Ｗarm"
+        ],
+        "groups": [
+            "VIP"
         ]
     }
 ]
