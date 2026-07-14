@@ -236,6 +236,22 @@
     },
     {
         "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "ayla__"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "2": [
+                "ayla__"
+            ]
+        }
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -409,6 +425,7 @@
             "Yukι-Nαgαto",
             "ZeroPositivo",
             "_MimiPR_",
+            "ayla__",
             "elgrande_32",
             "hakunamatata93",
             "iTeo_zz",
