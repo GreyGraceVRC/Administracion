@@ -92,6 +92,7 @@
             "ALISSVR",
             "Batty25",
             "BebecitaShey",
+            "Cyan_Nyah_Desu",
             "HΞYYNΛTΞ",
             "Its_perla",
             "IvanOliD",
@@ -342,59 +343,6 @@
     },
     {
         "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "Akita Neru〆",
-            "Amurysse",
-            "Bulletproof 生新",
-            "C0quita_",
-            "Cazadora UwU",
-            "ClечbеяЯ ®",
-            "Darect",
-            "Dark-Ni",
-            "Diva Virtual",
-            "Enidtza",
-            "FXSCAR",
-            "Fluffy_kiwi",
-            "Inalca©",
-            "Jensell1",
-            "Layzana",
-            "Lexi_Cineru",
-            "LittleSam_01",
-            "MarlonQC",
-            "Miss_Kurumi",
-            "Naim Ulloa",
-            "NeoDino",
-            "OnealPR_",
-            "Owchie_xo",
-            "RocketSaul",
-            "Saltimbanki",
-            "Sansito_s",
-            "Sofi-Sticada",
-            "SymphonyOwU",
-            "S̶e̶x̶ Drive",
-            "XionWolf V",
-            "innari",
-            "lokito_sen",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "xmax04x",
-            "ʟᴇᴜ ®",
-            "ღGALIღ",
-            "ᴅᴀᴍᴏɴsᴇx",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "Ｓｈｎａｐｉｉ"
-        ],
-        "groups": [
-            "Partner"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -406,6 +354,7 @@
             "AmparithoG",
             "Batty25",
             "BebecitaShey",
+            "Cyan_Nyah_Desu",
             "Dark-Ni",
             "Dulcecоmocandy",
             "Enidtza",
@@ -477,6 +426,59 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "Akita Neru〆",
+            "Amurysse",
+            "Bulletproof 生新",
+            "C0quita_",
+            "Cazadora UwU",
+            "ClечbеяЯ ®",
+            "Darect",
+            "Dark-Ni",
+            "Diva Virtual",
+            "Enidtza",
+            "FXSCAR",
+            "Fluffy_kiwi",
+            "Inalca©",
+            "Jensell1",
+            "Layzana",
+            "Lexi_Cineru",
+            "LittleSam_01",
+            "MarlonQC",
+            "Miss_Kurumi",
+            "Naim Ulloa",
+            "NeoDino",
+            "OnealPR_",
+            "Owchie_xo",
+            "RocketSaul",
+            "Saltimbanki",
+            "Sansito_s",
+            "Sofi-Sticada",
+            "SymphonyOwU",
+            "S̶e̶x̶ Drive",
+            "XionWolf V",
+            "innari",
+            "lokito_sen",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "xmax04x",
+            "ʟᴇᴜ ®",
+            "ღGALIღ",
+            "ᴅᴀᴍᴏɴsᴇx",
+            "ᴜѕᴀɢɪᴠʀ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "Ｓｈｎａｐｉｉ"
+        ],
+        "groups": [
+            "Partner"
         ]
     }
 ]
