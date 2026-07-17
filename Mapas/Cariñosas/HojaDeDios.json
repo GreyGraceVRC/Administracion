@@ -33,7 +33,6 @@
             "IvanOliD",
             "JMAUPS",
             "Jensell1",
-            "JoJoCorgi",
             "JokerStein",
             "K I Z T A S",
             "Kfe©",
@@ -91,6 +90,7 @@
             "Ƙυѕт",
             "ɢᴏᴛɪ",
             "ʀsᴋʏ",
+            "ʀᴜɴᴇᴢ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "нσѕнι",
             "۶ৎ Byte_EXE ۶ৎ",
@@ -102,6 +102,7 @@
             "ᴀѕᴛʀᴀ",
             "ᴄɴᴄ'",
             "ᴅᴀᴍᴏɴsᴇx",
+            "ᴇʀᴘ'",
             "ᴍɪɴᴛʸ",
             "ᴘᴇᴘɪɴᴀᴢosoシ",
             "ᴛᴏᴋɪᴏ",
@@ -219,7 +220,6 @@
                 "testeop",
                 "Brendii",
                 "Nosfet",
-                "JoJoCorgi",
                 "Alèysha",
                 "۶ৎ Byte_EXE ۶ৎ",
                 "ঔৣ EvilღRubyঔৣ",
@@ -230,7 +230,9 @@
                 "ʀsᴋʏ",
                 "ᴄɴᴄ'",
                 "GreatMoonAroma?",
-                "EnzoNova"
+                "EnzoNova",
+                "ʀᴜɴᴇᴢ",
+                "ᴇʀᴘ'"
             ],
             "1": [
                 "༒orix_souls༒"
@@ -272,9 +274,7 @@
             "Darect",
             "Dios Carmesi",
             "Diva Virtual",
-            "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
             "Erill․♥",
-            "Guredts_d",
             "IG XimenaGtz04",
             "Inalca©",
             "Karlozz",
@@ -283,10 +283,10 @@
             "KeyBlack",
             "Layzana",
             "LittleSam_01",
+            "LoreKangetsu",
             "Malin11",
             "MarlonQC",
             "Miss_Kurumi",
-            "OsitoPauPau",
             "Owchie_xo",
             "Pely Vega",
             "Sandu ShengShou",
@@ -295,13 +295,14 @@
             "Sofi-Sticada",
             "S̶e̶x̶ Drive",
             "Tachibana-",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
             "Yuan X",
             "ari․33",
             "lokito_sen",
             "nyamty_45",
             "sʟʏ ®",
             "xmax04x",
-            "¨L0r3Gh02t¨",
             "ʟᴇᴜ ®",
             "˚ʚ sᴛᴀʀ ɞ˚",
             "ო Y A M I ო",
@@ -309,7 +310,6 @@
             "ღKyokaღ",
             "ღᴋᴀᴍɪᴍɪ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ザZaTofuRuザ",
             "Ｅｕｐｈｏｒｉｉａ",
             "ＴＯＫＡＹＯ"
         ],
@@ -321,7 +321,6 @@
                 "MarlonQC"
             ],
             "4": [
-                "OsitoPauPau",
                 "ღᴋᴀᴍɪᴍɪ",
                 "Erill․♥",
                 "Seruly",
@@ -337,11 +336,6 @@
             ],
             "7": [
                 "KatheKatt"
-            ],
-            "13": [
-                "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
-                "Guredts_d",
-                "ザZaTofuRuザ"
             ],
             "6": [
                 "Dios Carmesi"
@@ -363,8 +357,12 @@
                 "Sandu ShengShou",
                 "ღKyokaღ",
                 "KeyBlack",
-                "¨L0r3Gh02t¨",
+                "LoreKangetsu",
                 "Tachibana-"
+            ],
+            "15": [
+                "XoX_Ashley_XoX",
+                "XxX_Alexa_XxX"
             ],
             "16": [
                 "Akihide"
@@ -491,83 +489,25 @@
             "EnzoNova",
             "Erill․♥",
             "GreatMoonAroma?",
-            "JoJoCorgi",
             "Kfe©",
             "Malin11",
             "Nosfet",
-            "OsitoPauPau",
             "Seruly",
             "UwUWuitaSaurio",
             "VenusAlyx",
             "sʟʏ ®",
             "testeop",
             "ʀsᴋʏ",
+            "ʀᴜɴᴇᴢ",
             "˚ʚ sᴛᴀʀ ɞ˚",
             "۶ৎ Byte_EXE ۶ৎ",
             "ঔৣ EvilღRubyঔৣ",
             "ღᴋᴀᴍɪᴍɪ",
-            "ᴄɴᴄ'"
+            "ᴄɴᴄ'",
+            "ᴇʀᴘ'"
         ],
         "groups": [
             "DancerGuest"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "AKIKURA",
-            "Akita Neru〆",
-            "AmparithoG",
-            "Bulletproof 生新",
-            "Caroolx",
-            "Cazadora UwU",
-            "Dark-Ni",
-            "Dulcecоmocandy",
-            "Dɪᴇ Aɴᴏɴʏᴍɪᴛᴀ̈ᴛ",
-            "Enidtza",
-            "Funas",
-            "Guredts_d",
-            "IG XimenaGtz04",
-            "Josuewe",
-            "Kanekey",
-            "Karlozz",
-            "Kevin GlezAnc",
-            "KeyBlack",
-            "LadyBoom9",
-            "Layzana",
-            "Lexi_Cineru",
-            "MithZh",
-            "MrHuesos",
-            "OnealPR_",
-            "Owchie_xo",
-            "Pely Vega",
-            "Saltimbanki",
-            "Sandu ShengShou",
-            "TITO~JR COCO",
-            "Tachibana-",
-            "Trushz",
-            "aaronquito",
-            "ari․33",
-            "iTeo_zz",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "¨L0r3Gh02t¨",
-            "¿RED X?",
-            "ȻĦƗNA",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-            "ო Y A M I ო",
-            "ღKomisito",
-            "ღKyokaღ",
-            "ᴅᴀᴍᴏɴsᴇx",
-            "ザZaTofuRuザ",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "InversorA"
         ]
     },
     {
@@ -594,6 +534,61 @@
     },
     {
         "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "AKIKURA",
+            "Akita Neru〆",
+            "AmparithoG",
+            "Bulletproof 生新",
+            "Caroolx",
+            "Cazadora UwU",
+            "Dark-Ni",
+            "Dulcecоmocandy",
+            "Enidtza",
+            "Funas",
+            "IG XimenaGtz04",
+            "Josuewe",
+            "Kanekey",
+            "Karlozz",
+            "Kevin GlezAnc",
+            "KeyBlack",
+            "LadyBoom9",
+            "Layzana",
+            "Lexi_Cineru",
+            "LoreKangetsu",
+            "MithZh",
+            "MrHuesos",
+            "OnealPR_",
+            "Owchie_xo",
+            "Pely Vega",
+            "Saltimbanki",
+            "Sandu ShengShou",
+            "TITO~JR COCO",
+            "Tachibana-",
+            "Trushz",
+            "aaronquito",
+            "ari․33",
+            "iTeo_zz",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+            "ო Y A M I ო",
+            "ღKomisito",
+            "ღKyokaღ",
+            "ᴅᴀᴍᴏɴsᴇx",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -616,6 +611,7 @@
             "Karlozz",
             "KeyBlack",
             "LadyBoom9",
+            "LoreKangetsu",
             "Lʏɴx",
             "MrHuesos",
             "NeoTillas",
@@ -626,6 +622,8 @@
             "Tachibana-",
             "Trushz",
             "VEПDEƬƬΛ",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
             "Yasashi Teyko",
             "Yuan X",
             "ZeroPositivo",
@@ -642,7 +640,6 @@
             "oyasuu_2213",
             "plomitogram",
             "sweetzeromx",
-            "¨L0r3Gh02t¨",
             "¿RED X?",
             "ȻĦƗNA",
             "ɢᴏᴛɪ",

@@ -29,6 +29,7 @@
             "LadyBoom9",
             "Layzana",
             "Lexi_Cineru",
+            "LoreKangetsu",
             "MrHuesos",
             "OnealPR_",
             "Owchie_xo",
@@ -41,7 +42,6 @@
             "nyamty_45",
             "orochigamerlol",
             "rubyphoenix7",
-            "¨L0r3Gh02t¨",
             "¿RED X?",
             "ȻĦƗNA",
             "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
@@ -61,7 +61,7 @@
             "3": [
                 "ღKyokaღ",
                 "KeyBlack",
-                "¨L0r3Gh02t¨",
+                "LoreKangetsu",
                 "Tachibana-"
             ],
             "1": [
@@ -191,6 +191,8 @@
             "Sansito_s",
             "Sofi-Sticada",
             "S̶e̶x̶ Drive",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
             "Yuan X",
             "lokito_sen",
             "xmax04x",
@@ -209,6 +211,10 @@
                 "ო Y A M I ო",
                 "ARI ARES",
                 "Yuan X"
+            ],
+            "15": [
+                "XoX_Ashley_XoX",
+                "XxX_Alexa_XxX"
             ],
             "16": [
                 "Akihide"
@@ -290,48 +296,6 @@
     },
     {
         "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "AKIKURA",
-            "Akita Neru〆",
-            "AmparithoG",
-            "Bulletproof 生新",
-            "Cazadora UwU",
-            "Dark-Ni",
-            "Enidtza",
-            "Josuewe",
-            "Kanekey",
-            "KeyBlack",
-            "LadyBoom9",
-            "Layzana",
-            "Lexi_Cineru",
-            "MrHuesos",
-            "OnealPR_",
-            "Owchie_xo",
-            "Saltimbanki",
-            "Sandu ShengShou",
-            "TITO~JR COCO",
-            "Tachibana-",
-            "Trushz",
-            "iTeo_zz",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "¨L0r3Gh02t¨",
-            "¿RED X?",
-            "ȻĦƗNA",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-            "ღKyokaღ",
-            "ᴅᴀᴍᴏɴsᴇx"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -409,6 +373,7 @@
             "Karlozz",
             "KeyBlack",
             "LadyBoom9",
+            "LoreKangetsu",
             "Lʏɴx",
             "MrHuesos",
             "Naim Ulloa",
@@ -420,6 +385,8 @@
             "Tachibana-",
             "Trushz",
             "VEПDEƬƬΛ",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
             "Yasashi Teyko",
             "Yuan X",
             "Yukι-Nαgαto",
@@ -437,7 +404,6 @@
             "oyasuu_2213",
             "plomitogram",
             "sweetzeromx",
-            "¨L0r3Gh02t¨",
             "¿RED X?",
             "ȻĦƗNA",
             "ɢᴏᴛɪ",
@@ -461,6 +427,48 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "AKIKURA",
+            "Akita Neru〆",
+            "AmparithoG",
+            "Bulletproof 生新",
+            "Cazadora UwU",
+            "Dark-Ni",
+            "Enidtza",
+            "Josuewe",
+            "Kanekey",
+            "KeyBlack",
+            "LadyBoom9",
+            "Layzana",
+            "Lexi_Cineru",
+            "LoreKangetsu",
+            "MrHuesos",
+            "OnealPR_",
+            "Owchie_xo",
+            "Saltimbanki",
+            "Sandu ShengShou",
+            "TITO~JR COCO",
+            "Tachibana-",
+            "Trushz",
+            "iTeo_zz",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+            "ღKyokaღ",
+            "ᴅᴀᴍᴏɴsᴇx"
+        ],
+        "groups": [
+            "InversorA"
         ]
     }
 ]
