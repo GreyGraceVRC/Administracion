@@ -265,7 +265,6 @@
         ],
         "users": [
             "ARI ARES",
-            "Akihide",
             "Akita Neru〆",
             "Batty25",
             "Cuervito_",
@@ -355,9 +354,6 @@
             "15": [
                 "XoX_Ashley_XoX",
                 "XxX_Alexa_XxX"
-            ],
-            "16": [
-                "Akihide"
             ],
             "6": [
                 "Batty25",
@@ -576,13 +572,51 @@
     },
     {
         "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "ARI ARES",
+            "Akita Neru〆",
+            "Amurysse",
+            "Bulletproof 生新",
+            "Cazadora UwU",
+            "Dark-Ni",
+            "Enidtza",
+            "Jensell1",
+            "Layzana",
+            "Lexi_Cineru",
+            "LittleSam_01",
+            "NeoDino",
+            "OnealPR_",
+            "Owchie_xo",
+            "Saltimbanki",
+            "Sofi-Sticada",
+            "SymphonyOwU",
+            "Yuan X",
+            "innari",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "ʟᴇᴜ ®",
+            "ო Y A M I ო",
+            "ღGALIღ",
+            "ᴅᴀᴍᴏɴsᴇx",
+            "ᴜѕᴀɢɪᴠʀ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "Ｓｈｎａｐｉｉ"
+        ],
+        "groups": [
+            "Partner"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
             "AKIKURA",
             "ALISSVR",
-            "ARI ARES",
-            "Akihide",
             "AmparithoG",
             "Batty25",
             "BebecitaShey",
@@ -616,7 +650,6 @@
             "XxX_Alexa_XxX",
             "Yasashi Teyko",
             "YojanR1501",
-            "Yuan X",
             "ZeroPositivo",
             "_MimiPR_",
             "ayla__",
@@ -639,7 +672,6 @@
             "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
             "༒orix_souls༒",
             "༒๖ۣۣۜАlex༒",
-            "ო Y A M I ო",
             "ღDELULUღ",
             "ღKyokaღ",
             "ᴀѕᴛʀᴀ",
@@ -651,43 +683,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "Akita Neru〆",
-            "Amurysse",
-            "Bulletproof 生新",
-            "Cazadora UwU",
-            "Dark-Ni",
-            "Enidtza",
-            "Jensell1",
-            "Layzana",
-            "Lexi_Cineru",
-            "LittleSam_01",
-            "NeoDino",
-            "OnealPR_",
-            "Owchie_xo",
-            "Saltimbanki",
-            "Sofi-Sticada",
-            "SymphonyOwU",
-            "innari",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "ʟᴇᴜ ®",
-            "ღGALIღ",
-            "ᴅᴀᴍᴏɴsᴇx",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "Ｓｈｎａｐｉｉ"
-        ],
-        "groups": [
-            "Partner"
         ]
     }
 ]
