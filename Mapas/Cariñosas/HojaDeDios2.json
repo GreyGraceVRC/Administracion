@@ -88,6 +88,7 @@
             "VIP"
         ],
         "users": [
+            "-Yggdrasil",
             "ALISSVR",
             "BebecitaShey",
             "Cyan_Nyah_Desu",
@@ -281,48 +282,6 @@
     },
     {
         "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "AKIKURA",
-            "Akita Neru〆",
-            "AmparithoG",
-            "Bulletproof 生新",
-            "Cazadora UwU",
-            "Dark-Ni",
-            "Enidtza",
-            "Josuewe",
-            "Kanekey",
-            "KeyBlack",
-            "LadyBoom9",
-            "Layzana",
-            "Lexi_Cineru",
-            "LoreKangetsu",
-            "MrHuesos",
-            "OnealPR_",
-            "Owchie_xo",
-            "Saltimbanki",
-            "Sandu ShengShou",
-            "TITO~JR COCO",
-            "Tachibana-",
-            "Trushz",
-            "iTeo_zz",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "¿RED X?",
-            "ȻĦƗNA",
-            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
-            "ღKyokaღ",
-            "ᴅᴀᴍᴏɴsᴇx"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
             "Partner"
         ],
         "users": [
@@ -373,6 +332,7 @@
             "VIP"
         ],
         "users": [
+            "-Yggdrasil",
             "AKIKURA",
             "ALISSVR",
             "AmparithoG",
@@ -447,6 +407,48 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "AKIKURA",
+            "Akita Neru〆",
+            "AmparithoG",
+            "Bulletproof 生新",
+            "Cazadora UwU",
+            "Dark-Ni",
+            "Enidtza",
+            "Josuewe",
+            "Kanekey",
+            "KeyBlack",
+            "LadyBoom9",
+            "Layzana",
+            "Lexi_Cineru",
+            "LoreKangetsu",
+            "MrHuesos",
+            "OnealPR_",
+            "Owchie_xo",
+            "Saltimbanki",
+            "Sandu ShengShou",
+            "TITO~JR COCO",
+            "Tachibana-",
+            "Trushz",
+            "iTeo_zz",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "¿RED X?",
+            "ȻĦƗNA",
+            "ৎ୭愛-ʟᴏʟʙɪᴛ-愛ৎ୭",
+            "ღKyokaღ",
+            "ᴅᴀᴍᴏɴsᴇx"
+        ],
+        "groups": [
+            "InversorA"
         ]
     }
 ]
