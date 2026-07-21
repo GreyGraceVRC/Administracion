@@ -179,22 +179,13 @@
             "Banners2"
         ],
         "users": [
-            "ARI ARES",
             "Batty25",
-            "LittleSam_01",
-            "Sofi-Sticada",
             "Tapia135777",
             "Troncio",
             "XoX_Ashley_XoX",
             "XxX_Alexa_XxX",
             "YojanR1501",
-            "Yuan X",
-            "r0driiVR",
-            "ʟᴇᴜ ®",
-            "ო Y A M I ო",
-            "ღGALIღ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "ＴＯＫＡＹＯ"
+            "r0driiVR"
         ],
         "groups": [
             "Banners2"
@@ -210,19 +201,6 @@
                 "YojanR1501",
                 "r0driiVR",
                 "Troncio"
-            ],
-            "11": [
-                "Sofi-Sticada",
-                "LittleSam_01",
-                "ღGALIღ",
-                "Ｅｕｐｈｏｒｉｉａ",
-                "ʟᴇᴜ ®"
-            ],
-            "9": [
-                "ＴＯＫＡＹＯ",
-                "ო Y A M I ო",
-                "ARI ARES",
-                "Yuan X"
             ]
         }
     },
@@ -247,17 +225,26 @@
             "Partner"
         ],
         "users": [
+            "ARI ARES",
             "Amurysse",
             "FXSCAR",
             "Fluffy_kiwi",
             "Jensell1",
+            "LittleSam_01",
             "MarlonQC",
             "RocketSaul",
+            "Sofi-Sticada",
             "SymphonyOwU",
             "XionWolf V",
+            "Yuan X",
             "innari",
+            "ʟᴇᴜ ®",
+            "ო Y A M I ო",
+            "ღGALIღ",
             "ᴜѕᴀɢɪᴠʀ",
-            "Ｓｈｎａｐｉｉ"
+            "Ｅｕｐｈｏｒｉｉａ",
+            "Ｓｈｎａｐｉｉ",
+            "ＴＯＫＡＹＯ"
         ],
         "groups": [
             "Partner"
@@ -278,53 +265,6 @@
         ],
         "groups": [
             "Admin"
-        ]
-    },
-    {
-        "ranks": [
-            "Partner"
-        ],
-        "users": [
-            "-DanteDMC-",
-            "ARI ARES",
-            "Akita Neru〆",
-            "Amurysse",
-            "Bulletproof 生新",
-            "Cazadora UwU",
-            "Dark-Ni",
-            "Enidtza",
-            "FXSCAR",
-            "Fluffy_kiwi",
-            "Jensell1",
-            "Layzana",
-            "Lexi_Cineru",
-            "LittleSam_01",
-            "MarlonQC",
-            "Naim Ulloa",
-            "NeoDino",
-            "OnealPR_",
-            "Owchie_xo",
-            "RocketSaul",
-            "Saltimbanki",
-            "Sofi-Sticada",
-            "SymphonyOwU",
-            "XionWolf V",
-            "Yuan X",
-            "innari",
-            "nyamty_45",
-            "orochigamerlol",
-            "rubyphoenix7",
-            "ʟᴇᴜ ®",
-            "ო Y A M I ო",
-            "ღGALIღ",
-            "ᴅᴀᴍᴏɴsᴇx",
-            "ᴜѕᴀɢɪᴠʀ",
-            "Ｅｕｐｈｏｒｉｉａ",
-            "Ｓｈｎａｐｉｉ",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "Partner"
         ]
     },
     {
@@ -407,6 +347,53 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "Partner"
+        ],
+        "users": [
+            "-DanteDMC-",
+            "ARI ARES",
+            "Akita Neru〆",
+            "Amurysse",
+            "Bulletproof 生新",
+            "Cazadora UwU",
+            "Dark-Ni",
+            "Enidtza",
+            "FXSCAR",
+            "Fluffy_kiwi",
+            "Jensell1",
+            "Layzana",
+            "Lexi_Cineru",
+            "LittleSam_01",
+            "MarlonQC",
+            "Naim Ulloa",
+            "NeoDino",
+            "OnealPR_",
+            "Owchie_xo",
+            "RocketSaul",
+            "Saltimbanki",
+            "Sofi-Sticada",
+            "SymphonyOwU",
+            "XionWolf V",
+            "Yuan X",
+            "innari",
+            "nyamty_45",
+            "orochigamerlol",
+            "rubyphoenix7",
+            "ʟᴇᴜ ®",
+            "ო Y A M I ო",
+            "ღGALIღ",
+            "ᴅᴀᴍᴏɴsᴇx",
+            "ᴜѕᴀɢɪᴠʀ",
+            "Ｅｕｐｈｏｒｉｉａ",
+            "Ｓｈｎａｐｉｉ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "Partner"
         ]
     },
     {
