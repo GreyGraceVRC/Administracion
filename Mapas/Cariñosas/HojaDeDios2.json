@@ -12,6 +12,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -157,7 +168,6 @@
         ],
         "users": [
             "ANA_ARCHY",
-            "Akihide",
             "Batty25",
             "BossZ3R054",
             "Lea ۶ৎ",
@@ -179,9 +189,6 @@
             "15": [
                 "XoX_Ashley_XoX",
                 "XxX_Alexa_XxX"
-            ],
-            "16": [
-                "Akihide"
             ],
             "6": [
                 "Batty25",
@@ -259,6 +266,17 @@
         ],
         "groups": [
             "Admin"
+        ]
+    },
+    {
+        "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
         ]
     },
     {
