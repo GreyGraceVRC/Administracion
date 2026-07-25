@@ -12,6 +12,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -74,7 +85,7 @@
             "Its_perla",
             "IvanOliD",
             "JMAUPS",
-            "Karlozz",
+            "Karurus",
             "NeoTillas",
             "SRHiggins",
             "Salsa_aa",
@@ -157,7 +168,6 @@
         ],
         "users": [
             "ANA_ARCHY",
-            "Akihide",
             "Batty25",
             "BossZ3R054",
             "Lea ۶ৎ",
@@ -179,9 +189,6 @@
             "15": [
                 "XoX_Ashley_XoX",
                 "XxX_Alexa_XxX"
-            ],
-            "16": [
-                "Akihide"
             ],
             "6": [
                 "Batty25",
@@ -283,7 +290,7 @@
             "JMAUPS",
             "Josuewe",
             "Kanekey",
-            "Karlozz",
+            "Karurus",
             "LadyBoom9",
             "MrHuesos",
             "Naim Ulloa",
@@ -335,6 +342,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
         ]
     },
     {
