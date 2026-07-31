@@ -35,7 +35,6 @@
             "KirikuVT",
             "Lady Farya",
             "Macetita",
-            "Minilena",
             "MithZh",
             "MokaPaut",
             "Mаtrix",
@@ -48,7 +47,6 @@
             "Robi1",
             "RocketSaul",
             "SRHiggins",
-            "Shirou1711",
             "Suwie",
             "SymphonyOwU",
             "UwUWuitaSaurio",
@@ -77,11 +75,9 @@
             "sweetzeromx",
             "testeop",
             "zulay",
-            "~ X y r o ~",
             "Ƙυѕт",
             "ɢᴏᴛɪ",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
-            "нσѕнι",
             "۶ৎ Byte_EXE ۶ৎ",
             "ঔৣ EvilღRubyঔৣ",
             "༒orix_souls༒",
@@ -93,13 +89,10 @@
             "ᴍɪɴᴛʸ",
             "ᴛᴏᴋɪᴏ",
             "ᴜѕᴀɢɪᴠʀ",
-            "ᴢʏɴᴛᴇᴋツ",
             "『ϟsxϟ』ツ",
             "サイレンス ツ",
             "ㄥㄖ丫卂ㄥㄒ丫",
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "＋Aquiles_wolff＋",
-            "Ｋｙｚｅｎ",
             "Ｓｈｎａｐｉｉ",
             "ＴＯＫＡＹＯ",
             "Ｗarm"
@@ -215,8 +208,6 @@
                 "༒orix_souls༒"
             ],
             "6": [
-                "＋Aquiles_wolff＋",
-                "нσѕнι",
                 "ᴜѕᴀɢɪᴠʀ",
                 "innari",
                 "Ｓｈｎａｐｉｉ",
@@ -225,12 +216,7 @@
                 "ＴＯＫＡＹＯ",
                 "ო Y A M I ო",
                 "ARI ARES",
-                "Yuan X",
-                "Ｋｙｚｅｎ",
-                "ᴢʏɴᴛᴇᴋツ",
-                "Minilena",
-                "Shirou1711",
-                "~ X y r o ~"
+                "Yuan X"
             ],
             "8": [
                 "NeoDino"
@@ -395,10 +381,17 @@
             "Dark-Ni",
             "Josuewe",
             "LadyBoom9",
+            "Minilena",
             "MrHuesos",
+            "Shirou1711",
             "TITO~JR COCO",
             "ayla__",
-            "iTeo_zz"
+            "iTeo_zz",
+            "~ X y r o ~",
+            "нσѕнι",
+            "ᴢʏɴᴛᴇᴋツ",
+            "＋Aquiles_wolff＋",
+            "Ｋｙｚｅｎ"
         ],
         "groups": [
             "Banners3"
@@ -414,6 +407,15 @@
                 "LadyBoom9",
                 "MrHuesos",
                 "TITO~JR COCO"
+            ],
+            "4": [
+                "＋Aquiles_wolff＋",
+                "нσѕнι",
+                "Ｋｙｚｅｎ",
+                "ᴢʏɴᴛᴇᴋツ",
+                "Minilena",
+                "Shirou1711",
+                "~ X y r o ~"
             ]
         }
     },
