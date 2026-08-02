@@ -123,7 +123,6 @@
             "lace゛",
             "marovimartin",
             "nana ̉",
-            "orincon3 d710",
             "oyasuu_2213",
             "plomitogram",
             "sweetzeromx",
@@ -281,6 +280,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -319,7 +329,6 @@
             "lace゛",
             "marovimartin",
             "nana ̉",
-            "orincon3 d710",
             "oyasuu_2213",
             "plomitogram",
             "r0driiVR",
@@ -339,17 +348,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
         ]
     },
     {
