@@ -31,16 +31,13 @@
             "Dark-Ni",
             "Dementiis",
             "GodOfWar252",
-            "Josuewe",
             "KeyBlack",
-            "LadyBoom9",
             "Layzana",
             "LoreKangetsu",
             "Luen 信",
             "MMati",
             "Milunae",
             "Minilena",
-            "MrHuesos",
             "NeryTery",
             "Owchie_xo",
             "Rum1_wua",
@@ -48,11 +45,9 @@
             "Shinkki",
             "Shirou1711",
             "Sugi uwu",
-            "TITO~JR COCO",
             "Tachibana-",
             "__ABY__",
             "darken117",
-            "iTeo_zz",
             "xXSTAR-LIGHTXx",
             "~ X y r o ~",
             "нσѕнι",
@@ -115,10 +110,10 @@
             "JMAUPS",
             "Karurus",
             "Robi1",
+            "SpiritualCatVT",
             "VEПDEƬƬΛ",
             "Yasashi Teyko",
             "Yukι-Nαgαto",
-            "ZeroPositivo",
             "hakunamatata93",
             "lace゛",
             "marovimartin",
@@ -129,6 +124,7 @@
             "ɢᴏᴛɪ",
             "༒๖ۣۣۜАlex༒",
             "ღDELULUღ",
+            "ღMᴀᴏᴍᴀᴏღ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴛᴏᴋɪᴏ",
             "『ϟsxϟ』ツ",
@@ -282,17 +278,6 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -310,13 +295,10 @@
             "Its_perla",
             "IvanOliD",
             "JMAUPS",
-            "Josuewe",
             "Karurus",
-            "LadyBoom9",
-            "MrHuesos",
             "Naim Ulloa",
             "Robi1",
-            "TITO~JR COCO",
+            "SpiritualCatVT",
             "Tapia135777",
             "Troncio",
             "VEПDEƬƬΛ",
@@ -325,10 +307,8 @@
             "Yasashi Teyko",
             "YojanR1501",
             "Yukι-Nαgαto",
-            "ZeroPositivo",
             "ayla__",
             "hakunamatata93",
-            "iTeo_zz",
             "lace゛",
             "marovimartin",
             "nana ̉",
@@ -341,6 +321,7 @@
             "༒orix_souls༒",
             "༒๖ۣۣۜАlex༒",
             "ღDELULUღ",
+            "ღMᴀᴏᴍᴀᴏღ",
             "ᴇᴛᴀᴅɪʟᴀᴠ",
             "ᴛᴏᴋɪᴏ",
             "『ϟsxϟ』ツ",
@@ -355,46 +336,13 @@
     },
     {
         "ranks": [
-            "InversorA"
+            "StaffMenor"
         ],
         "users": [
-            "-Fausto-",
-            "Akita Neru〆",
-            "Dark-Ni",
-            "Dementiis",
-            "GodOfWar252",
-            "Josuewe",
-            "KeyBlack",
-            "LadyBoom9",
-            "Layzana",
-            "LoreKangetsu",
-            "Luen 信",
-            "MMati",
-            "Milunae",
-            "Minilena",
-            "MrHuesos",
-            "NeryTery",
-            "Owchie_xo",
-            "Rum1_wua",
-            "Sandu ShengShou",
-            "Shinkki",
-            "Shirou1711",
-            "Sugi uwu",
-            "TITO~JR COCO",
-            "Tachibana-",
-            "__ABY__",
-            "darken117",
-            "iTeo_zz",
-            "xXSTAR-LIGHTXx",
-            "~ X y r o ~",
-            "нσѕнι",
-            "ღKyokaღ",
-            "ᴢʏɴᴛᴇᴋツ",
-            "＋Aquiles_wolff＋",
-            "Ｋｙｚｅｎ"
+            "Akihide"
         ],
         "groups": [
-            "InversorA"
+            "StaffMenor"
         ]
     },
     {
@@ -458,6 +406,45 @@
         ],
         "groups": [
             "Partner"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-Fausto-",
+            "Akita Neru〆",
+            "Dark-Ni",
+            "Dementiis",
+            "GodOfWar252",
+            "KeyBlack",
+            "Layzana",
+            "LoreKangetsu",
+            "Luen 信",
+            "MMati",
+            "Milunae",
+            "Minilena",
+            "NeryTery",
+            "Owchie_xo",
+            "Rum1_wua",
+            "Sandu ShengShou",
+            "Shinkki",
+            "Shirou1711",
+            "Sugi uwu",
+            "Tachibana-",
+            "__ABY__",
+            "darken117",
+            "xXSTAR-LIGHTXx",
+            "~ X y r o ~",
+            "нσѕнι",
+            "ღKyokaღ",
+            "ᴢʏɴᴛᴇᴋツ",
+            "＋Aquiles_wolff＋",
+            "Ｋｙｚｅｎ"
+        ],
+        "groups": [
+            "InversorA"
         ]
     }
 ]
