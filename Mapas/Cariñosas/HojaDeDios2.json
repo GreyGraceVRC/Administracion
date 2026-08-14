@@ -224,7 +224,11 @@
             "Banners3"
         ],
         "users": [
-            "ayla__"
+            "JanusRR",
+            "KilliosPattis",
+            "PattisHanim",
+            "ayla__",
+            "黒_DЯΛKØ_鬼"
         ],
         "groups": [
             "Banners3"
@@ -232,6 +236,14 @@
         "custom_indexes": {
             "2": [
                 "ayla__"
+            ],
+            "5": [
+                "KilliosPattis",
+                "JanusRR"
+            ],
+            "6": [
+                "PattisHanim",
+                "黒_DЯΛKØ_鬼"
             ]
         }
     },
@@ -275,6 +287,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -292,9 +315,12 @@
             "HΞYYNΛTΞ",
             "Icοn4500",
             "Its_perla",
+            "JanusRR",
             "Karurus",
+            "KilliosPattis",
             "MatuteD",
             "Naim Ulloa",
+            "PattisHanim",
             "Robi1",
             "SpiritualCatVT",
             "Tapia135777",
@@ -325,22 +351,12 @@
             "『ϟsxϟ』ツ",
             "ㄥㄖ丫卂ㄥㄒ丫",
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
+            "黒_DЯΛKØ_鬼",
             "＋Aquiles_wolff＋",
             "Ｗarm"
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
         ]
     },
     {
