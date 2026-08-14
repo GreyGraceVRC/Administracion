@@ -108,11 +108,8 @@
             "FiVveFoxy",
             "HΞYYNΛTΞ",
             "Its_perla",
-            "JanusRR",
             "Karurus",
-            "KilliosPattis",
             "MatuteD",
-            "PattisHanim",
             "Robi1",
             "SpiritualCatVT",
             "VEПDEƬƬΛ",
@@ -134,7 +131,6 @@
             "『ϟsxϟ』ツ",
             "ㄥㄖ丫卂ㄥㄒ丫",
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "黒_DЯΛKØ_鬼",
             "Ｗarm"
         ],
         "groups": [
@@ -180,7 +176,11 @@
             "Banners3"
         ],
         "users": [
-            "ayla__"
+            "JanusRR",
+            "KilliosPattis",
+            "PattisHanim",
+            "ayla__",
+            "黒_DЯΛKØ_鬼"
         ],
         "groups": [
             "Banners3"
@@ -188,6 +188,14 @@
         "custom_indexes": {
             "2": [
                 "ayla__"
+            ],
+            "5": [
+                "KilliosPattis",
+                "JanusRR"
+            ],
+            "6": [
+                "PattisHanim",
+                "黒_DЯΛKØ_鬼"
             ]
         }
     },
@@ -273,17 +281,6 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -345,6 +342,56 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-Fausto-",
+            "Akita Neru〆",
+            "Dark-Ni",
+            "Dementiis",
+            "GodOfWar252",
+            "KeyBlack",
+            "Layzana",
+            "LoreKangetsu",
+            "Luen 信",
+            "MMati",
+            "Milunae",
+            "Minilena",
+            "NeryTery",
+            "Owchie_xo",
+            "Rum1_wua",
+            "Sandu ShengShou",
+            "Shinkki",
+            "Shirou1711",
+            "Sugi uwu",
+            "Tachibana-",
+            "__ABY__",
+            "darken117",
+            "xXSTAR-LIGHTXx",
+            "~LadyXyros~",
+            "нσѕнι",
+            "ღKyokaღ",
+            "ᴢʏɴᴛᴇᴋツ",
+            "＋Aquiles_wolff＋",
+            "Ｋｙｚｅｎ"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
             "Partner"
         ],
         "users": [
@@ -400,45 +447,6 @@
         ],
         "groups": [
             "Partner"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "-Fausto-",
-            "Akita Neru〆",
-            "Dark-Ni",
-            "Dementiis",
-            "GodOfWar252",
-            "KeyBlack",
-            "Layzana",
-            "LoreKangetsu",
-            "Luen 信",
-            "MMati",
-            "Milunae",
-            "Minilena",
-            "NeryTery",
-            "Owchie_xo",
-            "Rum1_wua",
-            "Sandu ShengShou",
-            "Shinkki",
-            "Shirou1711",
-            "Sugi uwu",
-            "Tachibana-",
-            "__ABY__",
-            "darken117",
-            "xXSTAR-LIGHTXx",
-            "~LadyXyros~",
-            "нσѕнι",
-            "ღKyokaღ",
-            "ᴢʏɴᴛᴇᴋツ",
-            "＋Aquiles_wolff＋",
-            "Ｋｙｚｅｎ"
-        ],
-        "groups": [
-            "InversorA"
         ]
     }
 ]
