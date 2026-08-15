@@ -111,12 +111,9 @@
             "Karurus",
             "MatuteD",
             "Robi1",
-            "Six007",
             "SpiritualCatVT",
-            "Tiburcio 435f",
             "VEПDEƬƬΛ",
             "Whirywhiry",
-            "XxLuciferxXPR_",
             "Yasashi Teyko",
             "Yukι-Nαgαto",
             "ZeroPositivo",
@@ -149,8 +146,7 @@
             "Dulcecоmocandy",
             "Icοn4500",
             "Naim Ulloa",
-            "NeoDino",
-            "༒orix_souls༒"
+            "NeoDino"
         ],
         "groups": [
             "Banners1"
@@ -166,11 +162,48 @@
                 "Icοn4500"
             ],
             "1": [
-                "༒orix_souls༒",
                 "AletherVz"
             ],
             "8": [
                 "NeoDino"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners3"
+        ],
+        "users": [
+            "JanusRR",
+            "KilliosPattis",
+            "PattisHanim",
+            "Six007",
+            "Tiburcio 435f",
+            "XxLuciferxXPR_",
+            "ayla__",
+            "༒orix_souls༒",
+            "黒_DЯΛKØ_鬼"
+        ],
+        "groups": [
+            "Banners3"
+        ],
+        "custom_indexes": {
+            "7": [
+                "༒orix_souls༒",
+                "XxLuciferxXPR_",
+                "Tiburcio 435f",
+                "Six007"
+            ],
+            "2": [
+                "ayla__"
+            ],
+            "5": [
+                "KilliosPattis",
+                "JanusRR"
+            ],
+            "6": [
+                "PattisHanim",
+                "黒_DЯΛKØ_鬼"
             ]
         }
     },
@@ -219,34 +252,6 @@
                 "YuuCaliente19°",
                 "hAki_uwu",
                 "HeyJulie"
-            ]
-        }
-    },
-    {
-        "ranks": [
-            "Banners3"
-        ],
-        "users": [
-            "JanusRR",
-            "KilliosPattis",
-            "PattisHanim",
-            "ayla__",
-            "黒_DЯΛKØ_鬼"
-        ],
-        "groups": [
-            "Banners3"
-        ],
-        "custom_indexes": {
-            "2": [
-                "ayla__"
-            ],
-            "5": [
-                "KilliosPattis",
-                "JanusRR"
-            ],
-            "6": [
-                "PattisHanim",
-                "黒_DЯΛKØ_鬼"
             ]
         }
     },
