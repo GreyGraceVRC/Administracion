@@ -54,7 +54,6 @@
             "xXSTAR-LIGHTXx",
             "~LadyXyros~",
             "нσѕнι",
-            "༒orix_souls༒",
             "ღKyokaღ",
             "ᴢʏɴᴛᴇᴋツ",
             "＋Aquiles_wolff＋",
@@ -66,8 +65,7 @@
         "custom_indexes": {
             "7": [
                 "Tiburcio 435f",
-                "Six007",
-                "༒orix_souls༒"
+                "Six007"
             ],
             "1": [
                 "Layzana",
@@ -155,7 +153,8 @@
             "Dulcecоmocandy",
             "Icοn4500",
             "Naim Ulloa",
-            "NeoDino"
+            "NeoDino",
+            "༒orix_souls༒"
         ],
         "groups": [
             "Banners1"
@@ -171,6 +170,7 @@
                 "Icοn4500"
             ],
             "1": [
+                "༒orix_souls༒",
                 "AletherVz"
             ],
             "8": [
@@ -294,6 +294,17 @@
     },
     {
         "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -360,17 +371,6 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -402,7 +402,6 @@
             "xXSTAR-LIGHTXx",
             "~LadyXyros~",
             "нσѕнι",
-            "༒orix_souls༒",
             "ღKyokaღ",
             "ᴢʏɴᴛᴇᴋツ",
             "＋Aquiles_wolff＋",
