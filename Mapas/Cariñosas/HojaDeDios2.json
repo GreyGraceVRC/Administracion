@@ -107,8 +107,8 @@
             "VIP"
         ],
         "users": [
-            "-Yggdrasil",
             "ALISSVR",
+            "AngelMH",
             "DEVILZOO_",
             "FiVveFoxy",
             "HΞYYNΛTΞ",
@@ -292,24 +292,13 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
-            "-Yggdrasil",
             "ALISSVR",
             "Akihide",
             "AletherVz",
+            "AngelMH",
             "Batty25",
             "DEVILZOO_",
             "Dark-Ni",
@@ -363,6 +352,17 @@
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "StaffMenor"
+        ],
+        "users": [
+            "Akihide"
+        ],
+        "groups": [
+            "StaffMenor"
         ]
     },
     {
