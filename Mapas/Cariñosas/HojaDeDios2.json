@@ -98,6 +98,7 @@
         "users": [
             "-Yggdrasil",
             "ALISSVR",
+            "AletherVz",
             "AngelMH",
             "DEVILZOO_",
             "FiVveFoxy",
@@ -118,6 +119,7 @@
             "nana ̉",
             "plomitogram",
             "ɢᴏᴛɪ",
+            "༒orix_souls༒",
             "༒๖ۣۣۜАlex༒",
             "ღDELULUღ",
             "ღMᴀᴏᴍᴀᴏღ",
@@ -130,19 +132,22 @@
         ],
         "groups": [
             "VIP"
-        ]
+        ],
+        "custom_indexes": {
+            "1": [
+                "AletherVz"
+            ]
+        }
     },
     {
         "ranks": [
             "Banners1"
         ],
         "users": [
-            "AletherVz",
             "Dulcecоmocandy",
             "Icοn4500",
             "Naim Ulloa",
-            "NeoDino",
-            "༒orix_souls༒"
+            "NeoDino"
         ],
         "groups": [
             "Banners1"
@@ -156,10 +161,6 @@
             ],
             "2": [
                 "Icοn4500"
-            ],
-            "1": [
-                "༒orix_souls༒",
-                "AletherVz"
             ],
             "8": [
                 "NeoDino"
@@ -282,6 +283,48 @@
     },
     {
         "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "-Fausto-",
+            "Akita Neru〆",
+            "Dark-Ni",
+            "Dementiis",
+            "GodOfWar252",
+            "KeyBlack",
+            "Layzana",
+            "LoreKangetsu",
+            "Luen 信",
+            "MMati",
+            "Milunae",
+            "Minilena",
+            "NeryTery",
+            "Owchie_xo",
+            "Rum1_wua",
+            "Sandu ShengShou",
+            "Shinkki",
+            "Shirou1711",
+            "Six007",
+            "Sugi uwu",
+            "Tachibana-",
+            "XxLuciferxXPR_",
+            "__ABY__",
+            "darken117",
+            "red_nigth",
+            "xXSTAR-LIGHTXx",
+            "~LadyXyros~",
+            "нσѕнι",
+            "ღKyokaღ",
+            "ᴢʏɴᴛᴇᴋツ",
+            "＋Aquiles_wolff＋",
+            "Ｋｙｚｅｎ"
+        ],
+        "groups": [
+            "InversorA"
+        ]
+    },
+    {
+        "ranks": [
             "VIP"
         ],
         "users": [
@@ -342,48 +385,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "-Fausto-",
-            "Akita Neru〆",
-            "Dark-Ni",
-            "Dementiis",
-            "GodOfWar252",
-            "KeyBlack",
-            "Layzana",
-            "LoreKangetsu",
-            "Luen 信",
-            "MMati",
-            "Milunae",
-            "Minilena",
-            "NeryTery",
-            "Owchie_xo",
-            "Rum1_wua",
-            "Sandu ShengShou",
-            "Shinkki",
-            "Shirou1711",
-            "Six007",
-            "Sugi uwu",
-            "Tachibana-",
-            "XxLuciferxXPR_",
-            "__ABY__",
-            "darken117",
-            "red_nigth",
-            "xXSTAR-LIGHTXx",
-            "~LadyXyros~",
-            "нσѕнι",
-            "ღKyokaღ",
-            "ᴢʏɴᴛᴇᴋツ",
-            "＋Aquiles_wolff＋",
-            "Ｋｙｚｅｎ"
-        ],
-        "groups": [
-            "InversorA"
         ]
     },
     {
