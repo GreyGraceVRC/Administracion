@@ -12,17 +12,6 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -47,10 +36,10 @@
             "Six007",
             "Sugi uwu",
             "Tachibana-",
-            "Tiburcio 435f",
             "XxLuciferxXPR_",
             "__ABY__",
             "darken117",
+            "red_nigth",
             "xXSTAR-LIGHTXx",
             "~LadyXyros~",
             "нσѕнι",
@@ -64,7 +53,7 @@
         ],
         "custom_indexes": {
             "7": [
-                "Tiburcio 435f",
+                "red_nigth",
                 "Six007"
             ],
             "1": [
@@ -109,7 +98,7 @@
         "users": [
             "-Yggdrasil",
             "ALISSVR",
-            "BebecitaShey",
+            "AngelMH",
             "DEVILZOO_",
             "FiVveFoxy",
             "HΞYYNΛTΞ",
@@ -148,12 +137,10 @@
             "Banners1"
         ],
         "users": [
-            "AletherVz",
             "Dulcecоmocandy",
             "Icοn4500",
             "Naim Ulloa",
-            "NeoDino",
-            "༒orix_souls༒"
+            "NeoDino"
         ],
         "groups": [
             "Banners1"
@@ -168,10 +155,6 @@
             "2": [
                 "Icοn4500"
             ],
-            "1": [
-                "༒orix_souls༒",
-                "AletherVz"
-            ],
             "8": [
                 "NeoDino"
             ]
@@ -183,12 +166,17 @@
         ],
         "users": [
             "ANA_ARCHY",
+            "Batty25",
             "HeyJulie",
             "Lea ۶ৎ",
+            "Tapia135777",
+            "Troncio",
             "XoX_Ashley_XoX",
             "XxX_Alexa_XxX",
+            "YojanR1501",
             "YuuCaliente19°",
             "hAki_uwu",
+            "r0driiVR",
             "rogelionany",
             "ー α̵॒ɯᴋ̈ɪe ෆ"
         ],
@@ -199,6 +187,13 @@
             "15": [
                 "XoX_Ashley_XoX",
                 "XxX_Alexa_XxX"
+            ],
+            "6": [
+                "Batty25",
+                "Tapia135777",
+                "YojanR1501",
+                "r0driiVR",
+                "Troncio"
             ],
             "9": [
                 "ANA_ARCHY"
@@ -281,77 +276,6 @@
     },
     {
         "ranks": [
-            "StaffMenor"
-        ],
-        "users": [
-            "Akihide"
-        ],
-        "groups": [
-            "StaffMenor"
-        ]
-    },
-    {
-        "ranks": [
-            "VIP"
-        ],
-        "users": [
-            "-Yggdrasil",
-            "ALISSVR",
-            "Akihide",
-            "AletherVz",
-            "BebecitaShey",
-            "DEVILZOO_",
-            "Dark-Ni",
-            "Dulcecоmocandy",
-            "FiVveFoxy",
-            "HΞYYNΛTΞ",
-            "Icοn4500",
-            "Its_perla",
-            "JanusRR",
-            "Karurus",
-            "KilliosPattis",
-            "MatuteD",
-            "Naim Ulloa",
-            "PattisHanim",
-            "Robi1",
-            "Six007",
-            "SpiritualCatVT",
-            "Tiburcio 435f",
-            "VEПDEƬƬΛ",
-            "Whirywhiry",
-            "XoX_Ashley_XoX",
-            "XxLuciferxXPR_",
-            "XxX_Alexa_XxX",
-            "Yasashi Teyko",
-            "Yukι-Nαgαto",
-            "ZeroPositivo",
-            "ayla__",
-            "hakunamatata93",
-            "lace゛",
-            "marovimartin",
-            "nana ̉",
-            "plomitogram",
-            "ɢᴏᴛɪ",
-            "нσѕнι",
-            "༒orix_souls༒",
-            "༒๖ۣۣۜАlex༒",
-            "ღDELULUღ",
-            "ღMᴀᴏᴍᴀᴏღ",
-            "ᴇᴛᴀᴅɪʟᴀᴠ",
-            "ᴛᴏᴋɪᴏ",
-            "『ϟsxϟ』ツ",
-            "ㄥㄖ丫卂ㄥㄒ丫",
-            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-            "黒_DЯΛKØ_鬼",
-            "＋Aquiles_wolff＋",
-            "Ｗarm"
-        ],
-        "groups": [
-            "VIP"
-        ]
-    },
-    {
-        "ranks": [
             "InversorA"
         ],
         "users": [
@@ -376,10 +300,10 @@
             "Six007",
             "Sugi uwu",
             "Tachibana-",
-            "Tiburcio 435f",
             "XxLuciferxXPR_",
             "__ABY__",
             "darken117",
+            "red_nigth",
             "xXSTAR-LIGHTXx",
             "~LadyXyros~",
             "нσѕнι",
@@ -390,6 +314,68 @@
         ],
         "groups": [
             "InversorA"
+        ]
+    },
+    {
+        "ranks": [
+            "VIP"
+        ],
+        "users": [
+            "-Yggdrasil",
+            "ALISSVR",
+            "AngelMH",
+            "Batty25",
+            "DEVILZOO_",
+            "Dark-Ni",
+            "Dulcecоmocandy",
+            "FiVveFoxy",
+            "HΞYYNΛTΞ",
+            "Icοn4500",
+            "Its_perla",
+            "JanusRR",
+            "Karurus",
+            "KilliosPattis",
+            "MatuteD",
+            "Naim Ulloa",
+            "PattisHanim",
+            "Robi1",
+            "Six007",
+            "SpiritualCatVT",
+            "Tapia135777",
+            "Troncio",
+            "VEПDEƬƬΛ",
+            "Whirywhiry",
+            "XoX_Ashley_XoX",
+            "XxLuciferxXPR_",
+            "XxX_Alexa_XxX",
+            "Yasashi Teyko",
+            "YojanR1501",
+            "Yukι-Nαgαto",
+            "ZeroPositivo",
+            "ayla__",
+            "hakunamatata93",
+            "lace゛",
+            "marovimartin",
+            "nana ̉",
+            "plomitogram",
+            "r0driiVR",
+            "red_nigth",
+            "ɢᴏᴛɪ",
+            "нσѕнι",
+            "༒๖ۣۣۜАlex༒",
+            "ღDELULUღ",
+            "ღMᴀᴏᴍᴀᴏღ",
+            "ᴇᴛᴀᴅɪʟᴀᴠ",
+            "ᴛᴏᴋɪᴏ",
+            "『ϟsxϟ』ツ",
+            "ㄥㄖ丫卂ㄥㄒ丫",
+            "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
+            "黒_DЯΛKØ_鬼",
+            "＋Aquiles_wolff＋",
+            "Ｗarm"
+        ],
+        "groups": [
+            "VIP"
         ]
     },
     {
