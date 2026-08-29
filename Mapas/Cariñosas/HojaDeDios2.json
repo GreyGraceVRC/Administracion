@@ -141,7 +141,8 @@
             "hAki_uwu",
             "r0driiVR",
             "rogelionany",
-            "ー α̵॒ɯᴋ̈ɪe ෆ"
+            "ー α̵॒ɯᴋ̈ɪe ෆ",
+            "ＴＯＫＡＹＯ"
         ],
         "groups": [
             "Banners2"
@@ -157,6 +158,9 @@
                 "YojanR1501",
                 "r0driiVR",
                 "Troncio"
+            ],
+            "11": [
+                "ＴＯＫＡＹＯ"
             ],
             "9": [
                 "ANA_ARCHY"
@@ -229,36 +233,6 @@
     },
     {
         "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Dark-Ni",
-            "KeyBlack",
-            "Layzana",
-            "LoreKangetsu",
-            "Minilena",
-            "NeryTery",
-            "Owchie_xo",
-            "Sandu ShengShou",
-            "Shirou1711",
-            "Six007",
-            "Tachibana-",
-            "XxLuciferxXPR_",
-            "red_nigth",
-            "~LadyXyros~",
-            "нσѕнι",
-            "ღKyokaღ",
-            "ᴢʏɴᴛᴇᴋツ",
-            "＋Aquiles_wolff＋",
-            "Ｋｙｚｅｎ"
-        ],
-        "groups": [
-            "InversorA"
-        ]
-    },
-    {
-        "ranks": [
             "VIP"
         ],
         "users": [
@@ -313,10 +287,41 @@
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
             "黒_DЯΛKØ_鬼",
             "＋Aquiles_wolff＋",
+            "ＴＯＫＡＹＯ",
             "Ｗarm"
         ],
         "groups": [
             "VIP"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Dark-Ni",
+            "KeyBlack",
+            "Layzana",
+            "LoreKangetsu",
+            "Minilena",
+            "NeryTery",
+            "Owchie_xo",
+            "Sandu ShengShou",
+            "Shirou1711",
+            "Six007",
+            "Tachibana-",
+            "XxLuciferxXPR_",
+            "red_nigth",
+            "~LadyXyros~",
+            "нσѕнι",
+            "ღKyokaღ",
+            "ᴢʏɴᴛᴇᴋツ",
+            "＋Aquiles_wolff＋",
+            "Ｋｙｚｅｎ"
+        ],
+        "groups": [
+            "InversorA"
         ]
     },
     {
