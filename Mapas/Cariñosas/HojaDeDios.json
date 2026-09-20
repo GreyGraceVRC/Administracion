@@ -359,26 +359,6 @@
     },
     {
         "ranks": [
-            "3"
-        ],
-        "users": [
-            "ᴏnly",
-            "ᴡᴏᴏf"
-        ],
-        "groups": [
-            "3"
-        ],
-        "custom_indexes": {
-            "16": [
-                "ᴡᴏᴏf"
-            ],
-            "15": [
-                "ᴏnly"
-            ]
-        }
-    },
-    {
-        "ranks": [
             "Banners3"
         ],
         "users": [
@@ -408,12 +388,20 @@
             "hakunamatata93",
             "sʟᴇɴᴅᴇʀ",
             "xXSTAR-LIGHTXx",
+            "ᴏnly",
+            "ᴡᴏᴏf",
             "黒_DЯΛKØ_鬼"
         ],
         "groups": [
             "Banners3"
         ],
         "custom_indexes": {
+            "16": [
+                "ᴡᴏᴏf"
+            ],
+            "15": [
+                "ᴏnly"
+            ],
             "2": [
                 "Renn___",
                 "Mikaa___",
