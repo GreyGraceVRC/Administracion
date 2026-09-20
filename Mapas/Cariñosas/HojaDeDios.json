@@ -535,6 +535,7 @@
             "VIP"
         ],
         "users": [
+            "!FORZAR_CIERRE",
             "-DanteDMC-",
             "ALISSVR",
             "ANA_ARCHY",
