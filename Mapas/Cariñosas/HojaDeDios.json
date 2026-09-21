@@ -106,6 +106,7 @@
             "ᴀᴋɪɪ ®",
             "ᴍɪɴᴛʸ",
             "ᴜѕᴀɢɪᴠʀ",
+            "ᴡᴏᴏf",
             "『ϟsxϟ』ツ",
             "サイレンス ツ",
             "ㄥㄖ丫卂ㄥㄒ丫",
@@ -169,6 +170,7 @@
                 "サイレンス ツ",
                 "Suwie",
                 "Yolandy",
+                "ᴡᴏᴏf",
                 "JØT₳_M̶B̶",
                 "H e n a",
                 "nana ̉",
@@ -291,7 +293,6 @@
             "ᴄɴᴄ'",
             "ᴇʀᴘ'",
             "ᴏnly",
-            "ᴡᴏᴏf",
             "ー α̵॒ɯᴋ̈ɪe ෆ",
             "ＴＯＫＡＹＯ"
         ],
@@ -318,12 +319,6 @@
             "2": [
                 "Cuervito_"
             ],
-            "12": [
-                "ᴡᴏᴏf",
-                "ᴏnly",
-                "Rugzy",
-                "Kii70"
-            ],
             "7": [
                 "KatheKaᴛ"
             ],
@@ -340,6 +335,11 @@
             ],
             "9": [
                 "ANA_ARCHY"
+            ],
+            "12": [
+                "ᴏnly",
+                "Rugzy",
+                "Kii70"
             ],
             "1": [
                 "Akita Neru〆"
@@ -472,8 +472,6 @@
             "Ƙυѕт",
             "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
             "ღ jinxx ღ",
-            "ᴏnly",
-            "ᴡᴏᴏf",
             "Ｗarm"
         ],
         "groups": [
@@ -512,6 +510,55 @@
         ],
         "groups": [
             "DancerGuest"
+        ]
+    },
+    {
+        "ranks": [
+            "Friends"
+        ],
+        "users": [
+            "Aʙᴢᴀʟᴏᴛ Lᴜɴᴀ",
+            "K I Z T A S",
+            "Mаtrix",
+            "Nanadelka",
+            "Suwie",
+            "WorldDestroyers",
+            "Yolandy",
+            "biliustick48",
+            "m e o ᴡ",
+            "zulay",
+            "ᴍɪɴᴛʸ",
+            "『ϟsxϟ』ツ",
+            "サイレンス ツ"
+        ],
+        "groups": [
+            "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Caroolx",
+            "Dark-Ni",
+            "Dulcecоmocandy",
+            "Funas",
+            "IG XimenaGtz04",
+            "Karurus",
+            "KeyBlack",
+            "LoreKangetsu",
+            "MithZh",
+            "Sandu ShengShou",
+            "Tachibana-",
+            "aaronquito",
+            "ღKomisito",
+            "ღKyokaღ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "InversorA"
         ]
     },
     {
@@ -584,6 +631,7 @@
             "ღDELULUღ",
             "ᴏnly",
             "ᴜѕᴀɢɪᴠʀ",
+            "ᴡᴏᴏf",
             "ㄥㄖ丫卂ㄥㄒ丫",
             "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
             "黒_DЯΛKØ_鬼",
@@ -593,55 +641,6 @@
         ],
         "groups": [
             "VIP"
-        ]
-    },
-    {
-        "ranks": [
-            "Friends"
-        ],
-        "users": [
-            "Aʙᴢᴀʟᴏᴛ Lᴜɴᴀ",
-            "K I Z T A S",
-            "Mаtrix",
-            "Nanadelka",
-            "Suwie",
-            "WorldDestroyers",
-            "Yolandy",
-            "biliustick48",
-            "m e o ᴡ",
-            "zulay",
-            "ᴍɪɴᴛʸ",
-            "『ϟsxϟ』ツ",
-            "サイレンス ツ"
-        ],
-        "groups": [
-            "Friends"
-        ]
-    },
-    {
-        "ranks": [
-            "InversorA"
-        ],
-        "users": [
-            "Akita Neru〆",
-            "Caroolx",
-            "Dark-Ni",
-            "Dulcecоmocandy",
-            "Funas",
-            "IG XimenaGtz04",
-            "Karurus",
-            "KeyBlack",
-            "LoreKangetsu",
-            "MithZh",
-            "Sandu ShengShou",
-            "Tachibana-",
-            "aaronquito",
-            "ღKomisito",
-            "ღKyokaღ",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "InversorA"
         ]
     },
     {
