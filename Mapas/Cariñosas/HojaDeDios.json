@@ -1,96 +1,6 @@
 [
     {
         "ranks": [
-            "Banners2"
-        ],
-        "users": [
-            "ANA_ARCHY",
-            "Akita Neru〆",
-            "ClҽчяЯ ®",
-            "Cuervito_",
-            "EL CAWFEE",
-            "Envy®",
-            "Erill․♥",
-            "IG XimenaGtz04",
-            "Karurus",
-            "KatheKaᴛ",
-            "KeyBlack",
-            "Kii70",
-            "LoreKangetsu",
-            "MarlonQC",
-            "RAFAOwO",
-            "Rugzy",
-            "Sandu ShengShou",
-            "Tachibana-",
-            "XoX_Ashley_XoX",
-            "XxX_Alexa_XxX",
-            "ʀsᴋʏ",
-            "ʀᴜɴᴇᴢ",
-            "ঔৣ EvilღRubyঔৣ",
-            "ღKyokaღ",
-            "ღᴋᴀᴍɪᴍɪ",
-            "ᴄɴᴄ'",
-            "ᴇʀᴘ'",
-            "ＴＯＫＡＹＯ"
-        ],
-        "groups": [
-            "Banners2"
-        ],
-        "custom_indexes": {
-            "4": [
-                "Envy®",
-                "ClҽчяЯ ®",
-                "Erill․♥",
-                "ᴄɴᴄ'",
-                "ʀᴜɴᴇᴢ",
-                "ʀsᴋʏ",
-                "ᴇʀᴘ'",
-                "ღᴋᴀᴍɪᴍɪ",
-                "ঔৣ EvilღRubyঔৣ"
-            ],
-            "2": [
-                "RAFAOwO",
-                "EL CAWFEE",
-                "Cuervito_"
-            ],
-            "7": [
-                "KatheKaᴛ"
-            ],
-            "8": [
-                "IG XimenaGtz04",
-                "Karurus"
-            ],
-            "14": [
-                "MarlonQC"
-            ],
-            "11": [
-                "ＴＯＫＡＹＯ"
-            ],
-            "12": [
-                "Rugzy",
-                "Kii70"
-            ],
-            "9": [
-                "ANA_ARCHY"
-            ],
-            "15": [
-                "XoX_Ashley_XoX",
-                "XxX_Alexa_XxX"
-            ],
-            "1": [
-                "Akita Neru〆"
-            ],
-            "3": [
-                "Sandu ShengShou",
-                "ღKyokaღ",
-                "KeyBlack",
-                "LoreKangetsu",
-                "Tachibana-"
-            ]
-        }
-    },
-    {
-        "ranks": [
             "Banners1"
         ],
         "users": [
@@ -129,6 +39,7 @@
             "JØT₳_M̶B̶",
             "K I Z T A S",
             "KROODYY",
+            "Kanaee",
             "Kfe©",
             "KhaosX_vr",
             "KirikuVT",
@@ -181,7 +92,6 @@
             "plomitogram",
             "ruy0nwn",
             "sheyshey707",
-            "testeop",
             "zulay",
             "Ƙυѕт",
             "ɴᴇᴘʜᴛᴜɴɪᴇ",
@@ -208,102 +118,117 @@
         ],
         "custom_indexes": {
             "13": [
+                "MokaPaut",
                 "ZarettoSSJ",
-                "Fluffy_kiwi",
-                "Rama_el_ligre",
                 "KirikuVT",
-                "XionWolf V",
-                "Yamita",
+                "Fluffy_kiwi",
                 "FXSCAR",
-                "Lady Farya",
-                "Macetita",
-                "-Yggdrasil",
+                "Yamita",
                 "Naim Ulloa",
-                "MokaPaut"
+                "Lady Farya",
+                "XionWolf V",
+                "Macetita",
+                "Rama_el_ligre",
+                "-Yggdrasil"
             ],
-            "12": [
-                "RocketSaul",
-                "Amurysse"
+            "2": [
+                "biliustick48",
+                "WorldDestroyers",
+                "zulay",
+                "Mаtrix",
+                "Nanadelka",
+                "K I Z T A S",
+                "Aʙᴢᴀʟᴏᴛ Lᴜɴᴀ",
+                "Suwie",
+                "ᴍɪɴᴛʸ",
+                "Cerezita_مازوخي",
+                "Yolandy",
+                "『ϟsxϟ』ツ",
+                "サイレンス ツ",
+                "Cyan_Nyah_Desu",
+                "Subaaaa",
+                "＋Aquiles_wolff＋",
+                "Mowgly",
+                "୨ྉмєiྉ୧",
+                "Meshiko12",
+                "Alejandra9i",
+                "ChonDiddiCums",
+                "LUISILLOPILLO 0605",
+                "KROODYY",
+                "FiVveFoxy",
+                "MatuteD",
+                "--Samael-",
+                "DarunYaguma",
+                "sheyshey707",
+                "ZeroPositivo",
+                "plomitogram",
+                "ᴜѕᴀɢɪᴠʀ",
+                "innari",
+                "Ｓｈｎａｐｉｉ",
+                "-DanteDMC-",
+                "orochigamerlol",
+                "LILITH02",
+                "nana ̉",
+                "lace゛",
+                "ㄥㄖ丫卂ㄥㄒ丫",
+                "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
+                "ShadyBelca",
+                "Elydriia",
+                "Jensell1",
+                "SymphonyOwU",
+                "ɴᴇᴘʜᴛᴜɴɪᴇ",
+                "Akino Happy",
+                "DarakaMC",
+                "R3Xito",
+                "Nαηα",
+                "ʟᴇʟᴇ",
+                "HΞYYNΛTΞ",
+                "VEПDEƬƬΛ",
+                "Likelyz",
+                "AngelMH",
+                "Rataak",
+                "ruy0nwn",
+                "adri_rxd",
+                "ֆɨʟɛռȶ ǟռɢɛʟ",
+                "JØT₳_M̶B̶",
+                "H e n a",
+                "burroajioajio 5ec4",
+                "cinnamoroll chino a156",
+                "Lyhnh",
+                "Yasashi Teyko",
+                "ALISSVR",
+                "Agustin 448"
             ],
             "4": [
-                "ParzivalOkazaki",
-                "Ｗarm",
-                "ღ jinxx ღ",
                 "Ƙυѕт",
+                "ღ jinxx ღ",
+                "ParzivalOkazaki",
                 "ʚ˚ ˏˋＶＩＲＵＳˊˎ ˚ɞ",
+                "Kanaee",
+                "Ｗarm",
                 "itzkanae"
             ],
             "7": [
                 "Kfe©",
                 "VenusAlyx"
             ],
-            "2": [
-                "Cerezita_مازوخي",
-                "WorldDestroyers",
-                "Nanadelka",
-                "biliustick48",
-                "ᴍɪɴᴛʸ",
-                "Mаtrix",
-                "Yolandy",
-                "K I Z T A S",
-                "Suwie",
-                "Aʙᴢᴀʟᴏᴛ Lᴜɴᴀ",
-                "zulay",
-                "『ϟsxϟ』ツ",
-                "サイレンス ツ",
-                "plomitogram",
-                "ㄥㄖ丫卂ㄥㄒ丫",
-                "乃乇乃乇́ Ҝㄖ卂ㄥ卂",
-                "-DanteDMC-",
-                "orochigamerlol",
-                "ɴᴇᴘʜᴛᴜɴɪᴇ",
-                "Akino Happy",
-                "ᴜѕᴀɢɪᴠʀ",
-                "innari",
-                "Ｓｈｎａｐｉｉ",
-                "DarunYaguma",
-                "AngelMH",
-                "Mowgly",
-                "୨ྉмєiྉ୧",
-                "Cyan_Nyah_Desu",
-                "Subaaaa",
-                "R3Xito",
-                "Nαηα",
-                "Jensell1",
-                "SymphonyOwU",
-                "Rataak",
-                "ruy0nwn",
-                "DarakaMC",
-                "Lyhnh",
-                "VEПDEƬƬΛ",
-                "LUISILLOPILLO 0605",
-                "KROODYY",
-                "Likelyz",
-                "HΞYYNΛTΞ",
-                "burroajioajio 5ec4",
-                "cinnamoroll chino a156",
-                "adri_rxd",
-                "ֆɨʟɛռȶ ǟռɢɛʟ",
-                "nana ̉",
-                "lace゛",
-                "--Samael-",
-                "sheyshey707",
-                "ShadyBelca",
-                "Elydriia",
-                "FiVveFoxy",
-                "MatuteD",
-                "ʟᴇʟᴇ",
-                "H e n a",
-                "＋Aquiles_wolff＋",
-                "Agustin 448",
-                "Meshiko12",
-                "Alejandra9i",
-                "ChonDiddiCums",
-                "ZeroPositivo",
-                "Yasashi Teyko",
-                "ALISSVR",
-                "LILITH02",
-                "JØT₳_M̶B̶"
+            "15": [
+                "GreatMoonAroma?",
+                "ASTAABOYY99",
+                "Brendii",
+                "༒Veyrix༒",
+                "UwUWuitaSaurio",
+                "KhaosX_vr",
+                "77_RxFx",
+                "ᴀᴋɪɪ ®",
+                "Daysi vr"
+            ],
+            "12": [
+                "RocketSaul",
+                "Amurysse"
+            ],
+            "14": [
+                "GreyGrace"
             ],
             "5": [
                 "Icοn4500",
@@ -312,18 +237,6 @@
                 "MithZh",
                 "ღKomisito"
             ],
-            "15": [
-                "KhaosX_vr",
-                "༒Veyrix༒",
-                "ASTAABOYY99",
-                "testeop",
-                "ᴀᴋɪɪ ®",
-                "Daysi vr",
-                "Brendii",
-                "GreatMoonAroma?",
-                "UwUWuitaSaurio",
-                "77_RxFx"
-            ],
             "16": [
                 "JokerStein",
                 "karу"
@@ -331,11 +244,98 @@
             "3": [
                 "Yukι-Nαgαto"
             ],
-            "14": [
-                "GreyGrace"
-            ],
             "8": [
                 "NeoDino"
+            ]
+        }
+    },
+    {
+        "ranks": [
+            "Banners2"
+        ],
+        "users": [
+            "ANA_ARCHY",
+            "Akita Neru〆",
+            "ClҽчяЯ ®",
+            "Cuervito_",
+            "EL CAWFEE",
+            "Envy®",
+            "Erill․♥",
+            "IG XimenaGtz04",
+            "Karurus",
+            "KatheKaᴛ",
+            "KeyBlack",
+            "Kii70",
+            "LoreKangetsu",
+            "MarlonQC",
+            "RAFAOwO",
+            "Rugzy",
+            "Sandu ShengShou",
+            "Tachibana-",
+            "XoX_Ashley_XoX",
+            "XxX_Alexa_XxX",
+            "ʀsᴋʏ",
+            "ʀᴜɴᴇᴢ",
+            "ঔৣ EvilღRubyঔৣ",
+            "ღKyokaღ",
+            "ღᴋᴀᴍɪᴍɪ",
+            "ᴄɴᴄ'",
+            "ᴇʀᴘ'",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "Banners2"
+        ],
+        "custom_indexes": {
+            "4": [
+                "Envy®",
+                "ᴇʀᴘ'",
+                "ʀᴜɴᴇᴢ",
+                "ᴄɴᴄ'",
+                "ღᴋᴀᴍɪᴍɪ",
+                "ClҽчяЯ ®",
+                "Erill․♥",
+                "ʀsᴋʏ",
+                "ঔৣ EvilღRubyঔৣ"
+            ],
+            "8": [
+                "IG XimenaGtz04",
+                "Karurus"
+            ],
+            "14": [
+                "MarlonQC"
+            ],
+            "2": [
+                "EL CAWFEE",
+                "Cuervito_",
+                "RAFAOwO"
+            ],
+            "7": [
+                "KatheKaᴛ"
+            ],
+            "12": [
+                "Rugzy",
+                "Kii70"
+            ],
+            "11": [
+                "ＴＯＫＡＹＯ"
+            ],
+            "9": [
+                "ANA_ARCHY"
+            ],
+            "15": [
+                "XoX_Ashley_XoX",
+                "XxX_Alexa_XxX"
+            ],
+            "1": [
+                "Akita Neru〆"
+            ],
+            "3": [
+                "Sandu ShengShou",
+                "ღKyokaღ",
+                "KeyBlack",
+                "LoreKangetsu",
+                "Tachibana-"
             ]
         }
     },
@@ -378,27 +378,14 @@
             "Banners3"
         ],
         "custom_indexes": {
-            "15": [
-                "m e o ᴡ"
-            ],
             "16": [
                 "ᴡᴏᴏf"
             ],
             "12": [
                 "ᴏnly"
             ],
-            "11": [
-                "Crzzz04",
-                "CloverPD-",
-                "__ABY__",
-                "Luen 信",
-                "乙ㄚ尺乇乂",
-                "Milunae",
-                "xXSTAR-LIGHTXx"
-            ],
-            "2": [
-                "Renn___",
-                "Mikaa___"
+            "15": [
+                "m e o ᴡ"
             ],
             "5": [
                 "༒๖ۣۣۜАlex༒",
@@ -406,12 +393,18 @@
                 "InfernoxTRK",
                 "fortach0n"
             ],
-            "10": [
-                "hakunamatata93",
-                "Karmanchuli",
-                "Lᴜᴄʏᴏ_ᴠʏɪxメ",
-                "ManfrediWarrior",
-                "Jhony_D"
+            "2": [
+                "Renn___",
+                "Mikaa___"
+            ],
+            "11": [
+                "CloverPD-",
+                "Crzzz04",
+                "__ABY__",
+                "Luen 信",
+                "乙ㄚ尺乇乂",
+                "Milunae",
+                "xXSTAR-LIGHTXx"
             ],
             "7": [
                 "༄ΛSТRΞIΛ༅",
@@ -420,43 +413,19 @@
                 "૪ JФҜIИ_ИЖS ૪",
                 "_R4DiK_"
             ],
+            "10": [
+                "hakunamatata93",
+                "Karmanchuli",
+                "Lᴜᴄʏᴏ_ᴠʏɪxメ",
+                "ManfrediWarrior",
+                "Jhony_D"
+            ],
             "8": [
                 "Sansito_s",
                 "ARI ARES",
                 "Yuan X"
             ]
         }
-    },
-    {
-        "ranks": [
-            "DancerGuest"
-        ],
-        "users": [
-            "77_RxFx",
-            "ASTAABOYY99",
-            "Brendii",
-            "ClҽчяЯ ®",
-            "Daysi vr",
-            "Envy®",
-            "Erill․♥",
-            "GreatMoonAroma?",
-            "Kfe©",
-            "KhaosX_vr",
-            "UwUWuitaSaurio",
-            "VenusAlyx",
-            "testeop",
-            "ʀsᴋʏ",
-            "ʀᴜɴᴇᴢ",
-            "ঔৣ EvilღRubyঔৣ",
-            "༒Veyrix༒",
-            "ღᴋᴀᴍɪᴍɪ",
-            "ᴀᴋɪɪ ®",
-            "ᴄɴᴄ'",
-            "ᴇʀᴘ'"
-        ],
-        "groups": [
-            "DancerGuest"
-        ]
     },
     {
         "ranks": [
@@ -470,6 +439,7 @@
             "GreyGrace",
             "Icοn4500",
             "JokerStein",
+            "Kanaee",
             "KatheKaᴛ",
             "KirikuVT",
             "Lady Farya",
@@ -501,15 +471,32 @@
     },
     {
         "ranks": [
-            "StaffMenor"
+            "DancerGuest"
         ],
         "users": [
-            "Amurysse",
-            "EL CAWFEE",
-            "RAFAOwO"
+            "77_RxFx",
+            "ASTAABOYY99",
+            "Brendii",
+            "ClҽчяЯ ®",
+            "Daysi vr",
+            "Envy®",
+            "Erill․♥",
+            "GreatMoonAroma?",
+            "Kfe©",
+            "KhaosX_vr",
+            "UwUWuitaSaurio",
+            "VenusAlyx",
+            "ʀsᴋʏ",
+            "ʀᴜɴᴇᴢ",
+            "ঔৣ EvilღRubyঔৣ",
+            "༒Veyrix༒",
+            "ღᴋᴀᴍɪᴍɪ",
+            "ᴀᴋɪɪ ®",
+            "ᴄɴᴄ'",
+            "ᴇʀᴘ'"
         ],
         "groups": [
-            "StaffMenor"
+            "DancerGuest"
         ]
     },
     {
@@ -533,6 +520,40 @@
         ],
         "groups": [
             "Friends"
+        ]
+    },
+    {
+        "ranks": [
+            "InversorA"
+        ],
+        "users": [
+            "Akita Neru〆",
+            "Caroolx",
+            "Funas",
+            "IG XimenaGtz04",
+            "InfernoxTRK",
+            "Its_perla",
+            "Karurus",
+            "KeyBlack",
+            "LoreKangetsu",
+            "Luismi92",
+            "MithZh",
+            "Renn___",
+            "Sandu ShengShou",
+            "Tachibana-",
+            "_R4DiK_",
+            "aaronquito",
+            "fortach0n",
+            "૪ JФҜIИ_ИЖS ૪",
+            "༄ΛSТRΞIΛ༅",
+            "༒๖ۣۣۜАlex༒",
+            "ღAngel༒",
+            "ღKomisito",
+            "ღKyokaღ",
+            "ＴＯＫＡＹＯ"
+        ],
+        "groups": [
+            "InversorA"
         ]
     },
     {
@@ -623,36 +644,15 @@
     },
     {
         "ranks": [
-            "InversorA"
+            "StaffMenor"
         ],
         "users": [
-            "Akita Neru〆",
-            "Caroolx",
-            "Funas",
-            "IG XimenaGtz04",
-            "InfernoxTRK",
-            "Its_perla",
-            "Karurus",
-            "KeyBlack",
-            "LoreKangetsu",
-            "Luismi92",
-            "MithZh",
-            "Renn___",
-            "Sandu ShengShou",
-            "Tachibana-",
-            "_R4DiK_",
-            "aaronquito",
-            "fortach0n",
-            "૪ JФҜIИ_ИЖS ૪",
-            "༄ΛSТRΞIΛ༅",
-            "༒๖ۣۣۜАlex༒",
-            "ღAngel༒",
-            "ღKomisito",
-            "ღKyokaღ",
-            "ＴＯＫＡＹＯ"
+            "Amurysse",
+            "EL CAWFEE",
+            "RAFAOwO"
         ],
         "groups": [
-            "InversorA"
+            "StaffMenor"
         ]
     },
     {
